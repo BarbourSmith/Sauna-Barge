@@ -924,8 +924,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Linear-Pattern",
-                    "x": 0.37566137566137564,
-                    "y": 0.5195530726256983,
+                    "x": 0.37698412698412703,
+                    "y": 0.5223463687150838,
                     "uniqueID": 1748906359042,
                     "ioValues": [
                         {
@@ -934,7 +934,7 @@
                         },
                         {
                             "name": "Dist",
-                            "ioValue": 1176
+                            "ioValue": 1219.1999999999998
                         },
                         {
                             "name": "Geometry",
@@ -975,7 +975,7 @@
                                 },
                                 {
                                     "name": "Dist",
-                                    "ioValue": 1176
+                                    "ioValue": 1219.1999999999998
                                 }
                             ],
                             "description": "Defines a Replicad code block.",
@@ -1144,7 +1144,14 @@
                 }
             ],
             "fileTypeVersion": 1,
-            "compiledBom": {}
+            "compiledBom": [
+                {
+                    "BOMitemName": "55 Galon Plastic Drum",
+                    "numberNeeded": 24,
+                    "costUSD": 0,
+                    "source": "www.example.com"
+                }
+            ]
         },
         {
             "atomType": "Assembly",
@@ -1178,9 +1185,189 @@
                     "uniqueID": 1748906487866,
                     "ioValues": [],
                     "description": "Connect geometry here to make it available in the next level up. "
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 0.07341269841269842,
+                    "y": 0.5363128491620112,
+                    "uniqueID": 1748906645316,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 2438.4
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ],
+                    "description": "Creates a new rectangle."
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 0.05687830687830688,
+                    "y": 0.3268156424581006,
+                    "uniqueID": 1748906698060,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 1200
+                        }
+                    ],
+                    "description": "Creates a new circle."
+                },
+                {
+                    "atomType": "Move",
+                    "name": "Move",
+                    "x": 0.14417989417989419,
+                    "y": 0.2737430167597765,
+                    "uniqueID": 1748906709593,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": 1748906698060
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 669.2
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 1850
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ],
+                    "description": "Moves a shape laterally in X, Y, Z."
+                },
+                {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
+                    "x": 0.2506613756613757,
+                    "y": 0.5139664804469274,
+                    "uniqueID": 1748906715113,
+                    "ioValues": [
+                        {
+                            "name": "Shape 1",
+                            "ioValue": 1748906645316
+                        },
+                        {
+                            "name": "Shape 2",
+                            "ioValue": 1748906709593
+                        },
+                        {
+                            "name": "Shape 3",
+                            "ioValue": 1748906830932
+                        },
+                        {
+                            "name": "Shape 4",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "Shape 1",
+                            "ioValue": 1748906645316
+                        },
+                        {
+                            "name": "Shape 2",
+                            "ioValue": 1748906709593
+                        },
+                        {
+                            "name": "Shape 3",
+                            "ioValue": 1748906830932
+                        },
+                        {
+                            "name": "Shape 4",
+                            "ioValue": ""
+                        }
+                    ],
+                    "description": "Joins two or more drawings into a single sketch by filling in the space between them. Also called 'hull'"
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 0.05026455026455026,
+                    "y": 0.8575418994413407,
+                    "uniqueID": 1748906802762,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 100
+                        }
+                    ],
+                    "description": "Creates a new rectangle."
+                },
+                {
+                    "atomType": "Move",
+                    "name": "Move",
+                    "x": 0.1693121693121693,
+                    "y": 0.8128491620111732,
+                    "uniqueID": 1748906830932,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": 1748906802762
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": -1600
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 2600
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ],
+                    "description": "Moves a shape laterally in X, Y, Z."
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Shape 1",
+                    "ap2Primary": false,
+                    "ap1ID": 1748906645316,
+                    "ap2ID": 1748906715113
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 1748906698060,
+                    "ap2ID": 1748906709593
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Shape 2",
+                    "ap2Primary": false,
+                    "ap1ID": 1748906709593,
+                    "ap2ID": 1748906715113
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 1748906802762,
+                    "ap2ID": 1748906830932
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Shape 3",
+                    "ap2Primary": false,
+                    "ap1ID": 1748906830932,
+                    "ap2ID": 1748906715113
+                }
+            ],
             "fileTypeVersion": 1,
             "compiledBom": {}
         }
