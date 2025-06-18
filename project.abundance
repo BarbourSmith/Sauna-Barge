@@ -2025,8 +2025,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Envlope",
-                    "x": 0.16534391534391535,
-                    "y": 0.5167597765363129,
+                    "x": 0.1693121693121693,
+                    "y": 0.5335195530726257,
                     "uniqueID": "4a1e947a-89b6-46ee-b243-a14d3b544434",
                     "ioValues": [],
                     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -2041,7 +2041,7 @@
                             "ioValues": [
                                 {
                                     "name": "number or geometry",
-                                    "ioValue": "856bd93d-91ea-47cf-84a6-38258833f8b6"
+                                    "ioValue": "7d9928c7-1d7f-4375-af96-8e8381184be4"
                                 }
                             ],
                             "description": "Connect geometry here to make it available in the next level up. "
@@ -2666,6 +2666,32 @@
                                 }
                             ],
                             "description": "Subtracts shape two from shape one."
+                        },
+                        {
+                            "atomType": "Rotate",
+                            "name": "Rotate",
+                            "x": 0.5562169312169313,
+                            "y": 0.7150837988826816,
+                            "uniqueID": "7d9928c7-1d7f-4375-af96-8e8381184be4",
+                            "ioValues": [
+                                {
+                                    "name": "geometry",
+                                    "ioValue": "856bd93d-91ea-47cf-84a6-38258833f8b6"
+                                },
+                                {
+                                    "name": "x-axis degrees",
+                                    "ioValue": 0
+                                },
+                                {
+                                    "name": "y-axis degrees",
+                                    "ioValue": 0
+                                },
+                                {
+                                    "name": "z-axis degrees",
+                                    "ioValue": 180
+                                }
+                            ],
+                            "description": "Rotates the input geometry around the X, Y, or Z axis. Inputs are degrees."
                         }
                     ],
                     "allConnectors": [
@@ -2685,9 +2711,16 @@
                         },
                         {
                             "ap1Name": "geometry",
+                            "ap2Name": "geometry",
+                            "ap2Primary": true,
+                            "ap1ID": "856bd93d-91ea-47cf-84a6-38258833f8b6",
+                            "ap2ID": "7d9928c7-1d7f-4375-af96-8e8381184be4"
+                        },
+                        {
+                            "ap1Name": "geometry",
                             "ap2Name": "number or geometry",
                             "ap2Primary": false,
-                            "ap1ID": "856bd93d-91ea-47cf-84a6-38258833f8b6",
+                            "ap1ID": "7d9928c7-1d7f-4375-af96-8e8381184be4",
                             "ap2ID": "d4368a33-11b9-4820-ac5a-792c72cda939"
                         }
                     ],
