@@ -1244,7 +1244,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 1650
+                            "ioValue": 1760
                         },
                         {
                             "name": "zDist",
@@ -1386,12 +1386,12 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 0.4742063492063492,
+                    "x": 0.48611111111111116,
                     "y": 0.26256983240223464,
                     "uniqueID": "c112b5bc-7536-4766-80d4-9ab0d6117586",
                     "ioValues": [],
                     "description": "A place to put project notes. These will appear in the GitHub readme and in the description of molecules up the chain. Markdown is supported. ",
-                    "readmeText": "The design that we're inspired by is ",
+                    "readmeText": "The design that we're inspired by is 2585mm high on the high side and 2265 high on the low side. Or 1760mm up to the center of the 1M radius circle",
                     "global": true
                 }
             ],
