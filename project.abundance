@@ -1216,13 +1216,13 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 0.05687830687830688,
-                    "y": 0.3268156424581006,
+                    "x": 0.06084656084656084,
+                    "y": 0.3324022346368715,
                     "uniqueID": 1748906698060,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 1200
+                            "ioValue": 1000
                         }
                     ],
                     "description": "Creates a new circle."
@@ -1230,8 +1230,8 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.1474867724867725,
-                    "y": 0.2653631284916201,
+                    "x": 0.15013227513227512,
+                    "y": 0.2737430167597765,
                     "uniqueID": 1748906709593,
                     "ioValues": [
                         {
@@ -1342,8 +1342,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 0.4007936507936508,
-                    "y": 0.5195530726256983,
+                    "x": 0.4001322751322751,
+                    "y": 0.5307262569832402,
                     "uniqueID": 1748906947134,
                     "ioValues": [
                         {
@@ -1382,6 +1382,17 @@
                         }
                     ],
                     "description": "Rotates the input geometry around the X, Y, or Z axis. Inputs are degrees."
+                },
+                {
+                    "atomType": "Readme",
+                    "name": "README",
+                    "x": 0.4742063492063492,
+                    "y": 0.26256983240223464,
+                    "uniqueID": "c112b5bc-7536-4766-80d4-9ab0d6117586",
+                    "ioValues": [],
+                    "description": "A place to put project notes. These will appear in the GitHub readme and in the description of molecules up the chain. Markdown is supported. ",
+                    "readmeText": "The design that we're inspired by is ",
+                    "global": true
                 }
             ],
             "allConnectors": [
