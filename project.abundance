@@ -442,7 +442,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Width (X)",
-                                    "x": 0.0264,
+                                    "x": 0.024749999999999998,
                                     "y": 0.9078212290502793,
                                     "uniqueID": 1748906194681,
                                     "ioValues": [],
@@ -452,7 +452,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Length (Y)",
-                                    "x": 0.0264,
+                                    "x": 0.024749999999999998,
                                     "y": 0.729050279329609,
                                     "uniqueID": 1748906194784,
                                     "ioValues": [],
@@ -462,7 +462,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Geometry",
-                                    "x": 0.0264,
+                                    "x": 0.024749999999999998,
                                     "y": 0.36312849162011174,
                                     "uniqueID": 1748906194216,
                                     "ioValues": [],
@@ -1003,7 +1003,7 @@
                         {
                             "atomType": "Input",
                             "name": "Number",
-                            "x": 0.0264,
+                            "x": 0.024749999999999998,
                             "y": 0.32869080779944293,
                             "uniqueID": 1748906359280,
                             "ioValues": [],
@@ -1013,7 +1013,7 @@
                         {
                             "atomType": "Input",
                             "name": "Dist",
-                            "x": 0.0264,
+                            "x": 0.024749999999999998,
                             "y": 0.6434540389972144,
                             "uniqueID": 1748906358893,
                             "ioValues": [],
@@ -1023,7 +1023,7 @@
                         {
                             "atomType": "Input",
                             "name": "Geometry",
-                            "x": 0.0264,
+                            "x": 0.024749999999999998,
                             "y": 0.9108635097493036,
                             "uniqueID": 1748906358708,
                             "ioValues": [],
@@ -1167,6 +1167,14 @@
                 {
                     "name": "Shape 2",
                     "ioValue": 1748907014901
+                },
+                {
+                    "name": "Shape 3",
+                    "ioValue": "e464d1b4-d156-45bd-a892-e5d665aeb209"
+                },
+                {
+                    "name": "Shape 4",
+                    "ioValue": "8229da21-9812-4926-8034-a07e8338d697"
                 }
             ],
             "description": "Pick between assembly and fusion to join input geometries. Assembly takes multiple shapes together into one, shapes higher in the inputs list will cut into shapes lower on the input list where they overlap. Fusion takes all shapes or sketches and fuses them permanently into a single shape"
@@ -1690,8 +1698,8 @@
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.7466931216931217,
-            "y": 0.8324022346368716,
+            "x": 0.7380952380952381,
+            "y": 0.88268156424581,
             "uniqueID": "8229da21-9812-4926-8034-a07e8338d697",
             "ioValues": [
                 {
@@ -2693,7 +2701,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Width",
-                                    "x": 0.0264,
+                                    "x": 0.024749999999999998,
                                     "y": 0.2900232018561485,
                                     "uniqueID": "5b848f1f-2851-4359-a350-e54af9bdc2c7",
                                     "ioValues": [],
@@ -2703,7 +2711,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Height",
-                                    "x": 0.0264,
+                                    "x": 0.024749999999999998,
                                     "y": 0.44083526682134566,
                                     "uniqueID": "ddad8f9f-1815-48d7-a8f8-552fde5f5bc2",
                                     "ioValues": [],
@@ -2713,7 +2721,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Radius",
-                                    "x": 0.0264,
+                                    "x": 0.024749999999999998,
                                     "y": 0.6334106728538283,
                                     "uniqueID": "6d716b75-9ece-4579-95cd-58fec0cb0f89",
                                     "ioValues": [],
@@ -3753,6 +3761,20 @@
             "ap2Primary": true,
             "ap1ID": "e464d1b4-d156-45bd-a892-e5d665aeb209",
             "ap2ID": "8229da21-9812-4926-8034-a07e8338d697"
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "Shape 3",
+            "ap2Primary": false,
+            "ap1ID": "e464d1b4-d156-45bd-a892-e5d665aeb209",
+            "ap2ID": 1748906469997
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "Shape 4",
+            "ap2Primary": false,
+            "ap1ID": "8229da21-9812-4926-8034-a07e8338d697",
+            "ap2ID": 1748906469997
         },
         {
             "ap1Name": "Geometry",
