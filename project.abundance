@@ -2025,8 +2025,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Envlope",
-                    "x": 0.1693121693121693,
-                    "y": 0.5335195530726257,
+                    "x": 0.17063492063492064,
+                    "y": 0.5558659217877094,
                     "uniqueID": "4a1e947a-89b6-46ee-b243-a14d3b544434",
                     "ioValues": [],
                     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -2049,8 +2049,8 @@
                         {
                             "atomType": "Molecule",
                             "name": "Outline",
-                            "x": 0.11706349206349206,
-                            "y": 0.34636871508379885,
+                            "x": 0.12037037037037036,
+                            "y": 0.3715083798882681,
                             "uniqueID": "2501b929-e30c-4c01-bc12-ae32bc532a34",
                             "ioValues": [],
                             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -2334,8 +2334,8 @@
                         {
                             "atomType": "Molecule",
                             "name": "Inside",
-                            "x": 0.15013227513227512,
-                            "y": 0.7206703910614525,
+                            "x": 0.15806878306878305,
+                            "y": 0.7793296089385475,
                             "uniqueID": "c6b92fec-a4ba-4a69-b911-4aca0d7fc870",
                             "ioValues": [],
                             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -2364,7 +2364,7 @@
                                     "ioValues": [
                                         {
                                             "name": "x length",
-                                            "ioValue": 2388.4
+                                            "ioValue": 2308.4
                                         },
                                         {
                                             "name": "y length",
@@ -2376,13 +2376,13 @@
                                 {
                                     "atomType": "Circle",
                                     "name": "Circle",
-                                    "x": 0.06084656084656084,
-                                    "y": 0.3324022346368715,
+                                    "x": 0.06746031746031746,
+                                    "y": 0.34916201117318435,
                                     "uniqueID": "9a315ce5-9ba5-49b2-8950-faf664f8929c",
                                     "ioValues": [
                                         {
                                             "name": "diameter",
-                                            "ioValue": 950
+                                            "ioValue": 870
                                         }
                                     ],
                                     "description": "Creates a new circle."
@@ -2416,8 +2416,8 @@
                                 {
                                     "atomType": "ShrinkWrap",
                                     "name": "Shrink Wrap",
-                                    "x": 0.2447089947089947,
-                                    "y": 0.5614525139664804,
+                                    "x": 0.251984126984127,
+                                    "y": 0.5558659217877094,
                                     "uniqueID": "c4adac44-cb02-4240-bd92-f411cd37c474",
                                     "ioValues": [
                                         {
@@ -2458,8 +2458,8 @@
                                 {
                                     "atomType": "Rectangle",
                                     "name": "Rectangle",
-                                    "x": 0.05357142857142857,
-                                    "y": 0.8547486033519552,
+                                    "x": 0.048941798941798946,
+                                    "y": 0.8910614525139664,
                                     "uniqueID": "4addc633-6e43-4081-b6ed-1b5e46da4b07",
                                     "ioValues": [
                                         {
@@ -2476,8 +2476,8 @@
                                 {
                                     "atomType": "Move",
                                     "name": "Move",
-                                    "x": 0.16666666666666666,
-                                    "y": 0.8435754189944134,
+                                    "x": 0.16600529100529102,
+                                    "y": 0.8547486033519552,
                                     "uniqueID": "cc2e7083-9db6-4816-8f47-b11c4e400597",
                                     "ioValues": [
                                         {
@@ -2486,11 +2486,11 @@
                                         },
                                         {
                                             "name": "xDist",
-                                            "ioValue": -1575
+                                            "ioValue": -1535
                                         },
                                         {
                                             "name": "yDist",
-                                            "ioValue": 2510
+                                            "ioValue": 2470
                                         },
                                         {
                                             "name": "zDist",
@@ -2502,8 +2502,8 @@
                                 {
                                     "atomType": "Extrude",
                                     "name": "Extrude",
-                                    "x": 0.39814814814814814,
-                                    "y": 0.5446927374301677,
+                                    "x": 0.3974867724867725,
+                                    "y": 0.5670391061452513,
                                     "uniqueID": "0c52f132-d8e0-407e-be78-7b59b0da48a2",
                                     "ioValues": [
                                         {
@@ -2546,8 +2546,8 @@
                                 {
                                     "atomType": "Readme",
                                     "name": "README",
-                                    "x": 0.48611111111111116,
-                                    "y": 0.26256983240223464,
+                                    "x": 0.3558201058201058,
+                                    "y": 0.2430167597765363,
                                     "uniqueID": "b510fc4c-6bd9-4bae-86db-1046f0084976",
                                     "ioValues": [],
                                     "description": "A place to put project notes. These will appear in the GitHub readme and in the description of molecules up the chain. Markdown is supported. ",
@@ -2571,7 +2571,7 @@
                                         },
                                         {
                                             "name": "yDist",
-                                            "ioValue": 25
+                                            "ioValue": 45
                                         },
                                         {
                                             "name": "zDist",
@@ -2579,6 +2579,17 @@
                                         }
                                     ],
                                     "description": "Moves a shape laterally in X, Y, Z."
+                                },
+                                {
+                                    "atomType": "Readme",
+                                    "name": "README",
+                                    "x": 0.47288359788359785,
+                                    "y": 0.770949720670391,
+                                    "uniqueID": "fe7db720-28a7-4728-862c-ef4621d8717e",
+                                    "ioValues": [],
+                                    "description": "A place to put project notes. These will appear in the GitHub readme and in the description of molecules up the chain. Markdown is supported. ",
+                                    "readmeText": "The walls are intended to be 40mm thick",
+                                    "global": true
                                 }
                             ],
                             "allConnectors": [
@@ -2652,8 +2663,8 @@
                         {
                             "atomType": "Difference",
                             "name": "Difference",
-                            "x": 0.39550264550264547,
-                            "y": 0.41899441340782123,
+                            "x": 0.41534391534391535,
+                            "y": 0.4134078212290503,
                             "uniqueID": "856bd93d-91ea-47cf-84a6-38258833f8b6",
                             "ioValues": [
                                 {
