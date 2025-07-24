@@ -14,7 +14,12 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 1748906334123,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "number or geometry",
+                    "ioValue": 1748906469997
+                }
+            ],
             "description": "Connect geometry here to make it available in the next level up. "
         },
         {
@@ -33,7 +38,12 @@
                     "x": 0.98,
                     "y": 0.5,
                     "uniqueID": 1748906336449,
-                    "ioValues": [],
+                    "ioValues": [
+                        {
+                            "name": "number or geometry",
+                            "ioValue": "04823deb-70ad-40a9-9e64-df45d0b6c70e"
+                        }
+                    ],
                     "description": "Connect geometry here to make it available in the next level up. "
                 },
                 {
@@ -966,7 +976,12 @@
                             "x": 0.98,
                             "y": 0.5,
                             "uniqueID": "ba1d39b8-4233-40f0-8def-39f78d6d2454",
-                            "ioValues": [],
+                            "ioValues": [
+                                {
+                                    "name": "number or geometry",
+                                    "ioValue": "fe056ad5-8e16-4314-817a-8149f6a0779b"
+                                }
+                            ],
                             "description": "Connect geometry here to make it available in the next level up. "
                         },
                         {
@@ -978,15 +993,15 @@
                             "ioValues": [
                                 {
                                     "name": "Shape",
-                                    "ioValue": 10
+                                    "ioValue": 1748906401527
                                 },
                                 {
                                     "name": "Number",
-                                    "ioValue": 4
+                                    "ioValue": 6
                                 },
                                 {
                                     "name": "Dist",
-                                    "ioValue": 15
+                                    "ioValue": 1219.1999999999998
                                 }
                             ],
                             "description": "Defines a Replicad code block.",
