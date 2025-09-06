@@ -6,11 +6,11 @@
 
 
 
- The design that we're inspired by is 2585mm high on the high side and 2265 high on the low side. Or 1760mm up to the center of the 1M radius circle
+ Readme text here
 
-The design that we're inspired by is 2585mm high on the high side and 2265 high on the low side. Or 1760mm up to the center of the 1M radius circle
+Readme text here
 
-The walls are intended to be 40mm thick
+Readme text here
 
 
 
