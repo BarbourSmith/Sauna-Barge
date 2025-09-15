@@ -773,7 +773,7 @@
                         {
                             "atomType": "Input",
                             "name": "Number",
-                            "x": 0.029699999999999997,
+                            "x": 0.07755,
                             "y": 0.32869080779944293,
                             "uniqueID": "0711da77-c69d-4ec5-a683-7a3e76ead287",
                             "ioValues": [],
@@ -783,7 +783,7 @@
                         {
                             "atomType": "Input",
                             "name": "Dist",
-                            "x": 0.029699999999999997,
+                            "x": 0.07755,
                             "y": 0.6434540389972144,
                             "uniqueID": "a4a70f0b-a424-4c4b-9d38-26ae1cadeb65",
                             "ioValues": [],
@@ -793,7 +793,7 @@
                         {
                             "atomType": "Input",
                             "name": "Geometry",
-                            "x": 0.029699999999999997,
+                            "x": 0.07755,
                             "y": 0.9108635097493036,
                             "uniqueID": "e1bbe597-c92e-4b15-9c6b-568480f6b777",
                             "ioValues": [],
@@ -1275,7 +1275,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Width (X)",
-                                    "x": 0.029699999999999997,
+                                    "x": 0.07755,
                                     "y": 0.9078212290502793,
                                     "uniqueID": 1748906194681,
                                     "ioValues": [],
@@ -1285,7 +1285,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Length (Y)",
-                                    "x": 0.029699999999999997,
+                                    "x": 0.07755,
                                     "y": 0.729050279329609,
                                     "uniqueID": 1748906194784,
                                     "ioValues": [],
@@ -1295,7 +1295,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Geometry",
-                                    "x": 0.029699999999999997,
+                                    "x": 0.07755,
                                     "y": 0.36312849162011174,
                                     "uniqueID": 1748906194216,
                                     "ioValues": [],
@@ -3245,7 +3245,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Width",
-                                    "x": 0.029699999999999997,
+                                    "x": 0.07755,
                                     "y": 0.2900232018561485,
                                     "uniqueID": "5b848f1f-2851-4359-a350-e54af9bdc2c7",
                                     "ioValues": [],
@@ -3255,7 +3255,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Height",
-                                    "x": 0.029699999999999997,
+                                    "x": 0.07755,
                                     "y": 0.44083526682134566,
                                     "uniqueID": "ddad8f9f-1815-48d7-a8f8-552fde5f5bc2",
                                     "ioValues": [],
@@ -3265,7 +3265,7 @@
                                 {
                                     "atomType": "Input",
                                     "name": "Radius",
-                                    "x": 0.029699999999999997,
+                                    "x": 0.07755,
                                     "y": 0.6334106728538283,
                                     "uniqueID": "6d716b75-9ece-4579-95cd-58fec0cb0f89",
                                     "ioValues": [],
@@ -3920,6 +3920,13 @@
     ],
     "unitsKey": "MM",
     "fileTypeVersion": 1,
-    "compiledBom": {},
+    "compiledBom": [
+        {
+            "BOMitemName": "55 Galon Plastic Drum",
+            "numberNeeded": 24,
+            "costUSD": 0,
+            "source": "www.example.com"
+        }
+    ],
     "filetypeVersion": 1
 }

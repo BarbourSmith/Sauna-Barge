@@ -2,6 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0| |
+|55 Galon Plastic Drum|24|$0|www.example.com|
+|Total: |24|$0| |
 
  3xCOG MSRP: $0.00
