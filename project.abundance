@@ -3687,8 +3687,8 @@
                                 {
                                     "atomType": "ShrinkWrap",
                                     "name": "Shrink Wrap",
-                                    "x": 0.25479814692256786,
-                                    "y": 0.5013927576601671,
+                                    "x": 0.24818001323626734,
+                                    "y": 0.520891364902507,
                                     "uniqueID": "950504d8-44cc-4b1d-abb3-5518897a2fe7",
                                     "ioValues": [
                                         {
@@ -3878,14 +3878,14 @@
                                         {
                                             "atomType": "Rectangle",
                                             "name": "Rectangle",
-                                            "x": 0.07341269841269842,
-                                            "y": 0.5363128491620112,
+                                            "x": 0.07941760423560555,
+                                            "y": 0.5598885793871866,
                                             "uniqueID": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
                                             "ioValues": [
                                                 {
                                                     "name": "x length",
-                                                    "ioValue": 2138.4,
-                                                    "currentEquation": "2438.4-300"
+                                                    "ioValue": 1988.4,
+                                                    "currentEquation": "2438.4-450"
                                                 },
                                                 {
                                                     "name": "y length",
@@ -4046,6 +4046,36 @@
                                             "description": "A place to put project notes. These will appear in the GitHub readme and in the description of molecules up the chain. Markdown is supported. ",
                                             "readMeText": "This is 150 mm thinner than the outside one",
                                             "global": true
+                                        },
+                                        {
+                                            "atomType": "Move",
+                                            "name": "Move",
+                                            "x": 0.30443414956982134,
+                                            "y": 0.8050139275766017,
+                                            "uniqueID": "63afbbef-be0f-430e-a96a-2a2e04a4163f",
+                                            "ioValues": [
+                                                {
+                                                    "name": "geometry",
+                                                    "ioValue": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "xDist",
+                                                    "ioValue": 150,
+                                                    "currentEquation": "150"
+                                                },
+                                                {
+                                                    "name": "yDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "zDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                }
+                                            ],
+                                            "description": "Moves a shape laterally in X, Y, Z."
                                         }
                                     ],
                                     "allConnectors": [
@@ -4054,6 +4084,12 @@
                                             "ap2Name": "Shape 1",
                                             "ap1ID": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
                                             "ap2ID": "0d9d6899-eddd-46b8-91f4-385468719666"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
+                                            "ap2ID": "63afbbef-be0f-430e-a96a-2a2e04a4163f"
                                         },
                                         {
                                             "ap1Name": "geometry",
