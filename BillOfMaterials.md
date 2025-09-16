@@ -2,7 +2,8 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|96 inch 2x6|23|$475.6400000000001|https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-8-ft-Rocky-Harbor-Square-Edge-Composite-Deck-Board-RH010608E2S01/310567552|
 |55 Galon Plastic Drum|24|$0|www.example.com|
-|Total: |24|$0| |
+|Total: |47|$475.6400000000001| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $1426.92
