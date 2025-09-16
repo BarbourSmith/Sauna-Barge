@@ -3852,9 +3852,9 @@
                                 },
                                 {
                                     "atomType": "Molecule",
-                                    "name": "Outline",
-                                    "x": 0.2673726009265387,
-                                    "y": 0.8774373259052926,
+                                    "name": "Inside",
+                                    "x": 0.2660489741892786,
+                                    "y": 0.8857938718662952,
                                     "uniqueID": "373d784a-85b9-4654-af25-982de9dfc1e6",
                                     "ioValues": [],
                                     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -3878,8 +3878,8 @@
                                         {
                                             "atomType": "Rectangle",
                                             "name": "Rectangle",
-                                            "x": 0.07941760423560555,
-                                            "y": 0.5598885793871866,
+                                            "x": 0.05294506949040371,
+                                            "y": 0.5988857938718662,
                                             "uniqueID": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
                                             "ioValues": [
                                                 {
@@ -3948,11 +3948,6 @@
                                             "uniqueID": "0d9d6899-eddd-46b8-91f4-385468719666",
                                             "ioValues": [
                                                 {
-                                                    "name": "Shape 1",
-                                                    "ioValue": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
-                                                    "currentEquation": null
-                                                },
-                                                {
                                                     "name": "Shape 2",
                                                     "ioValue": "3ac59897-ca0b-4170-a336-20c16774b7d6",
                                                     "currentEquation": null
@@ -3964,12 +3959,8 @@
                                                 },
                                                 {
                                                     "name": "Shape 4",
-                                                    "ioValue": "",
+                                                    "ioValue": "63afbbef-be0f-430e-a96a-2a2e04a4163f",
                                                     "currentEquation": null
-                                                },
-                                                {
-                                                    "name": "Shape 1",
-                                                    "ioValue": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396"
                                                 },
                                                 {
                                                     "name": "Shape 2",
@@ -3981,7 +3972,11 @@
                                                 },
                                                 {
                                                     "name": "Shape 4",
-                                                    "ioValue": ""
+                                                    "ioValue": "63afbbef-be0f-430e-a96a-2a2e04a4163f"
+                                                },
+                                                {
+                                                    "name": "Shape 5",
+                                                    "ioValue": null
                                                 }
                                             ],
                                             "description": "Joins two or more drawings into a single sketch by filling in the space between them. Also called 'hull'"
@@ -4050,8 +4045,8 @@
                                         {
                                             "atomType": "Move",
                                             "name": "Move",
-                                            "x": 0.30443414956982134,
-                                            "y": 0.8050139275766017,
+                                            "x": 0.13898080741230973,
+                                            "y": 0.5515320334261838,
                                             "uniqueID": "63afbbef-be0f-430e-a96a-2a2e04a4163f",
                                             "ioValues": [
                                                 {
@@ -4061,8 +4056,8 @@
                                                 },
                                                 {
                                                     "name": "xDist",
-                                                    "ioValue": 150,
-                                                    "currentEquation": "150"
+                                                    "ioValue": 75,
+                                                    "currentEquation": "75"
                                                 },
                                                 {
                                                     "name": "yDist",
@@ -4079,12 +4074,6 @@
                                         }
                                     ],
                                     "allConnectors": [
-                                        {
-                                            "ap1Name": "geometry",
-                                            "ap2Name": "Shape 1",
-                                            "ap1ID": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
-                                            "ap2ID": "0d9d6899-eddd-46b8-91f4-385468719666"
-                                        },
                                         {
                                             "ap1Name": "geometry",
                                             "ap2Name": "geometry",
@@ -4119,6 +4108,12 @@
                                             "ap1Name": "geometry",
                                             "ap2Name": "Shape 3",
                                             "ap1ID": "60a163f5-db11-4ad7-aa1b-207ccd163fc0",
+                                            "ap2ID": "0d9d6899-eddd-46b8-91f4-385468719666"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "Shape 4",
+                                            "ap1ID": "63afbbef-be0f-430e-a96a-2a2e04a4163f",
                                             "ap2ID": "0d9d6899-eddd-46b8-91f4-385468719666"
                                         }
                                     ],
