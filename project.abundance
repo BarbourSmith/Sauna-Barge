@@ -2396,8 +2396,8 @@
         {
             "atomType": "Molecule",
             "name": "Sauna",
-            "x": 0.15608465608465608,
-            "y": 0.6368715083798883,
+            "x": 0.1601588352084712,
+            "y": 0.6462395543175488,
             "uniqueID": "d6897bbc-2cf2-4647-b70f-690ec650e182",
             "ioValues": [],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -3460,7 +3460,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Envlope",
-                    "x": 0.5976174718729319,
+                    "x": 0.5883520847121112,
                     "y": 0.42896935933147634,
                     "uniqueID": "4a1e947a-89b6-46ee-b243-a14d3b544434",
                     "ioValues": [],
@@ -5485,8 +5485,8 @@
                             "ioValues": [
                                 {
                                     "name": "Number",
-                                    "ioValue": 3,
-                                    "currentEquation": "3"
+                                    "ioValue": 2,
+                                    "currentEquation": "2"
                                 },
                                 {
                                     "name": "Geometry",
@@ -5500,8 +5500,8 @@
                                 },
                                 {
                                     "name": "distY",
-                                    "ioValue": 457.2,
-                                    "currentEquation": null
+                                    "ioValue": 300,
+                                    "currentEquation": "300"
                                 },
                                 {
                                     "name": "distZ",
@@ -5581,7 +5581,7 @@
                                         },
                                         {
                                             "name": "Number",
-                                            "ioValue": 3,
+                                            "ioValue": 2,
                                             "currentEquation": null
                                         },
                                         {
@@ -5591,7 +5591,7 @@
                                         },
                                         {
                                             "name": "distY",
-                                            "ioValue": 457.2,
+                                            "ioValue": 300,
                                             "currentEquation": null
                                         },
                                         {
