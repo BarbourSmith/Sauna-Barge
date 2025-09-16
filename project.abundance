@@ -3854,7 +3854,7 @@
                                     "atomType": "Molecule",
                                     "name": "Inside",
                                     "x": 0.27134348113831896,
-                                    "y": 0.9136490250696379,
+                                    "y": 0.9387186629526462,
                                     "uniqueID": "373d784a-85b9-4654-af25-982de9dfc1e6",
                                     "ioValues": [],
                                     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -4015,13 +4015,13 @@
                                                 },
                                                 {
                                                     "name": "xDist",
-                                                    "ioValue": -1450,
-                                                    "currentEquation": "-1600+150"
+                                                    "ioValue": -1300,
+                                                    "currentEquation": "-1600+300"
                                                 },
                                                 {
                                                     "name": "yDist",
-                                                    "ioValue": 2385,
-                                                    "currentEquation": "2535-150"
+                                                    "ioValue": 2335,
+                                                    "currentEquation": "2535-200"
                                                 },
                                                 {
                                                     "name": "zDist",
