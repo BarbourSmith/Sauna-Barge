@@ -1783,226 +1783,14 @@
                             "x": 0.98,
                             "y": 0.5,
                             "uniqueID": "ffa26f68-d9e8-4051-a70c-a228ec89c8a9",
-                            "ioValues": [],
-                            "description": "Connect geometry here to make it available in the next level up. "
-                        },
-                        {
-                            "atomType": "GitHubMolecule",
-                            "name": "2x6 in MM",
-                            "x": 0.13633355393778954,
-                            "y": 0.47075208913649025,
-                            "uniqueID": "5bd53c02-5324-4371-93e4-eae4d8ccd93c",
                             "ioValues": [
                                 {
-                                    "name": "Input (1)",
-                                    "ioValue": 2438.3999999999996,
-                                    "currentEquation": "96*25.4"
+                                    "name": "number or geometry",
+                                    "ioValue": "aa010195-6574-45ac-acf6-bf802d1bf048",
+                                    "currentEquation": null
                                 }
                             ],
-                            "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
-                            "topLevel": false,
-                            "allAtoms": [
-                                {
-                                    "atomType": "Output",
-                                    "name": "Output",
-                                    "x": 0.9784431137724551,
-                                    "y": 0.4640371229698376,
-                                    "uniqueID": "055d5c83-28ca-4f05-afc0-7eece533a964",
-                                    "ioValues": [
-                                        {
-                                            "name": "number or geometry",
-                                            "ioValue": "655cd439-2afb-4960-98e8-d905bc729a85",
-                                            "currentEquation": null
-                                        }
-                                    ],
-                                    "description": "Connect geometry here to make it available in the next level up. "
-                                },
-                                {
-                                    "atomType": "Rectangle",
-                                    "name": "Rectangle",
-                                    "x": 0.10178117048346057,
-                                    "y": 0.26631853785900783,
-                                    "uniqueID": "a5de5212-9710-4170-8e90-f7f59af23522",
-                                    "ioValues": [
-                                        {
-                                            "name": "x length",
-                                            "ioValue": 38.099999999999994,
-                                            "currentEquation": "1.5*25.4"
-                                        },
-                                        {
-                                            "name": "y length",
-                                            "ioValue": 139.7,
-                                            "currentEquation": "5.5*25.4"
-                                        }
-                                    ],
-                                    "description": "Creates a new rectangle."
-                                },
-                                {
-                                    "atomType": "Extrude",
-                                    "name": "Extrude",
-                                    "x": 0.37404580152671757,
-                                    "y": 0.30548302872062666,
-                                    "uniqueID": "d862f052-766d-4f9b-b1cb-2ea7d2048fa6",
-                                    "ioValues": [
-                                        {
-                                            "name": "geometry",
-                                            "ioValue": "a5de5212-9710-4170-8e90-f7f59af23522",
-                                            "currentEquation": null
-                                        },
-                                        {
-                                            "name": "height",
-                                            "ioValue": 2438.3999999999996,
-                                            "currentEquation": null
-                                        }
-                                    ],
-                                    "description": "Extrudes a 2D shape. Input can be negative."
-                                },
-                                {
-                                    "atomType": "Input",
-                                    "name": "Input (1)",
-                                    "x": 0.029699999999999997,
-                                    "y": 0.4830287206266318,
-                                    "uniqueID": "7da50d02-e67b-46d2-b644-4ed5fa795e87",
-                                    "ioValues": [],
-                                    "description": "Adds an input to the parent molecule. If the parent molecule is the top level of the project then the input will be available when the project is shared or imported into another project. Name is editable",
-                                    "type": "number"
-                                },
-                                {
-                                    "atomType": "Rotate",
-                                    "name": "Rotate",
-                                    "x": 0.5215568862275449,
-                                    "y": 0.3619489559164733,
-                                    "uniqueID": "9a22923d-ad51-4d72-8738-6e3296701e26",
-                                    "ioValues": [
-                                        {
-                                            "name": "geometry",
-                                            "ioValue": "d862f052-766d-4f9b-b1cb-2ea7d2048fa6",
-                                            "currentEquation": null
-                                        },
-                                        {
-                                            "name": "x-axis degrees",
-                                            "ioValue": 90,
-                                            "currentEquation": null
-                                        },
-                                        {
-                                            "name": "y-axis degrees",
-                                            "ioValue": 90,
-                                            "currentEquation": null
-                                        },
-                                        {
-                                            "name": "z-axis degrees",
-                                            "ioValue": 0,
-                                            "currentEquation": null
-                                        }
-                                    ],
-                                    "description": "Rotates the input geometry around the X, Y, or Z axis. Inputs are degrees."
-                                },
-                                {
-                                    "atomType": "Add-BOM-Tag",
-                                    "name": "Add BOM Tag",
-                                    "x": 0.6952095808383233,
-                                    "y": 0.5777262180974478,
-                                    "uniqueID": "655cd439-2afb-4960-98e8-d905bc729a85",
-                                    "ioValues": [
-                                        {
-                                            "name": "geometry",
-                                            "ioValue": "9a22923d-ad51-4d72-8738-6e3296701e26",
-                                            "currentEquation": null
-                                        },
-                                        {
-                                            "name": "Item Name",
-                                            "ioValue": "New Item",
-                                            "currentEquation": null
-                                        },
-                                        {
-                                            "name": "Number Needed",
-                                            "ioValue": 1,
-                                            "currentEquation": null
-                                        },
-                                        {
-                                            "name": "Cost (USD)",
-                                            "ioValue": 0,
-                                            "currentEquation": null
-                                        },
-                                        {
-                                            "name": "Source Link",
-                                            "ioValue": "",
-                                            "currentEquation": null
-                                        }
-                                    ],
-                                    "description": "Adds a Bill Of Materials tag which appears in molecules containing this atom and in the GitHub project bill of materials.",
-                                    "BOMitem": {
-                                        "BOMitemName": "name",
-                                        "numberNeeded": 1,
-                                        "costUSD": 0,
-                                        "source": "www.example.com"
-                                    }
-                                }
-                            ],
-                            "allConnectors": [
-                                {
-                                    "ap1Name": "geometry",
-                                    "ap2Name": "geometry",
-                                    "ap1ID": "a5de5212-9710-4170-8e90-f7f59af23522",
-                                    "ap2ID": "d862f052-766d-4f9b-b1cb-2ea7d2048fa6"
-                                },
-                                {
-                                    "ap1Name": "geometry",
-                                    "ap2Name": "geometry",
-                                    "ap1ID": "d862f052-766d-4f9b-b1cb-2ea7d2048fa6",
-                                    "ap2ID": "9a22923d-ad51-4d72-8738-6e3296701e26"
-                                },
-                                {
-                                    "ap1Name": "number or geometry",
-                                    "ap2Name": "height",
-                                    "ap1ID": "7da50d02-e67b-46d2-b644-4ed5fa795e87",
-                                    "ap2ID": "d862f052-766d-4f9b-b1cb-2ea7d2048fa6"
-                                },
-                                {
-                                    "ap1Name": "geometry",
-                                    "ap2Name": "geometry",
-                                    "ap1ID": "9a22923d-ad51-4d72-8738-6e3296701e26",
-                                    "ap2ID": "655cd439-2afb-4960-98e8-d905bc729a85"
-                                },
-                                {
-                                    "ap1Name": "geometry",
-                                    "ap2Name": "number or geometry",
-                                    "ap1ID": "655cd439-2afb-4960-98e8-d905bc729a85",
-                                    "ap2ID": "055d5c83-28ca-4f05-afc0-7eece533a964"
-                                }
-                            ],
-                            "parentRepo": {
-                                "lastFoundGit": "2025-09-16T15:47:14.487Z",
-                                "privateRepo": false,
-                                "repoName": "2x6-in-MM",
-                                "dateCreated": "2025-09-14T17:15:39Z",
-                                "readMe": "https://raw.githubusercontent.com/BarbourSmith/2x6-in-MM/master/README.md?sanitize=true",
-                                "yyyy": 2025,
-                                "topMoleculeID": "99706c20-dcce-4419-a870-8b362b255f60",
-                                "githubMoleculesUsed": [],
-                                "html_url": "https://github.com/BarbourSmith/2x6-in-MM",
-                                "topics": [],
-                                "parentRepo": null,
-                                "forks": 0,
-                                "dateModified": "739508",
-                                "ranking": 0,
-                                "searchField": "2x6-in-mm barboursmith a 2x6 board modeled in mm ",
-                                "owner": "BarbourSmith",
-                                "description": "A 2x6 board modeled in mm",
-                                "contentURL": "https://raw.githubusercontent.com/BarbourSmith/2x6-in-MM/master/project.abundance?sanitize=true",
-                                "svgURL": "https://raw.githubusercontent.com/BarbourSmith/2x6-in-MM/master/project.svg?sanitize=true",
-                                "isLocal": false
-                            },
-                            "unitsKey": "MM",
-                            "fileTypeVersion": 1,
-                            "compiledBom": [
-                                {
-                                    "BOMitemName": "name",
-                                    "numberNeeded": 1,
-                                    "costUSD": 0,
-                                    "source": "www.example.com"
-                                }
-                            ]
+                            "description": "Connect geometry here to make it available in the next level up. "
                         },
                         {
                             "atomType": "Add-BOM-Tag",
@@ -2013,7 +1801,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "5bd53c02-5324-4371-93e4-eae4d8ccd93c",
+                                    "ioValue": "8f850946-5d61-4663-8225-a78afc2e32ba",
                                     "currentEquation": null
                                 },
                                 {
@@ -2048,8 +1836,8 @@
                         {
                             "atomType": "Molecule",
                             "name": "1x6 Trex",
-                            "x": 0.2627399073461284,
-                            "y": 0.6768802228412256,
+                            "x": 0.18001323626737262,
+                            "y": 0.5125348189415042,
                             "uniqueID": "d3207d69-8973-41ff-b0be-900e8025a05c",
                             "ioValues": [],
                             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -2061,7 +1849,13 @@
                                     "x": 0.98,
                                     "y": 0.5,
                                     "uniqueID": "87a5ffa5-833c-4201-b9a8-7411ba5490ec",
-                                    "ioValues": [],
+                                    "ioValues": [
+                                        {
+                                            "name": "number or geometry",
+                                            "ioValue": "6dfd8ee9-b340-4fd3-bbf1-becdcfed83a4",
+                                            "currentEquation": null
+                                        }
+                                    ],
                                     "description": "Connect geometry here to make it available in the next level up. "
                                 },
                                 {
@@ -2087,8 +1881,8 @@
                                 {
                                     "atomType": "Extrude",
                                     "name": "Extrude",
-                                    "x": 0.46260754467240245,
-                                    "y": 0.5626740947075208,
+                                    "x": 0.37789543348775645,
+                                    "y": 0.2924791086350975,
                                     "uniqueID": "cb5fdf41-ff8f-4c25-9637-85790add1321",
                                     "ioValues": [
                                         {
@@ -2103,6 +1897,46 @@
                                         }
                                     ],
                                     "description": "Extrudes a 2D shape. Input can be negative."
+                                },
+                                {
+                                    "atomType": "Rotate",
+                                    "name": "Rotate",
+                                    "x": 0.5519523494374586,
+                                    "y": 0.20612813370473537,
+                                    "uniqueID": "6dfd8ee9-b340-4fd3-bbf1-becdcfed83a4",
+                                    "ioValues": [
+                                        {
+                                            "name": "geometry",
+                                            "ioValue": "cb5fdf41-ff8f-4c25-9637-85790add1321",
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "x-axis degrees",
+                                            "ioValue": 0,
+                                            "currentEquation": "0"
+                                        },
+                                        {
+                                            "name": "y-axis degrees",
+                                            "ioValue": -90,
+                                            "currentEquation": "-90"
+                                        },
+                                        {
+                                            "name": "z-axis degrees",
+                                            "ioValue": 0,
+                                            "currentEquation": null
+                                        }
+                                    ],
+                                    "description": "Rotates the input geometry around the X, Y, or Z axis. Inputs are degrees."
+                                },
+                                {
+                                    "atomType": "Constant",
+                                    "name": "Height",
+                                    "x": 0.1330244870946393,
+                                    "y": 0.6462395543175488,
+                                    "uniqueID": "e2310810-c386-4ab2-9e07-6e312a062bc6",
+                                    "ioValues": [],
+                                    "description": "Defines a mathematical constant.",
+                                    "value": 0.94
                                 }
                             ],
                             "allConnectors": [
@@ -2111,27 +1945,81 @@
                                     "ap2Name": "geometry",
                                     "ap1ID": "0e419755-d75f-4a96-82d5-dd82c00dd444",
                                     "ap2ID": "cb5fdf41-ff8f-4c25-9637-85790add1321"
+                                },
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "geometry",
+                                    "ap1ID": "cb5fdf41-ff8f-4c25-9637-85790add1321",
+                                    "ap2ID": "6dfd8ee9-b340-4fd3-bbf1-becdcfed83a4"
+                                },
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "number or geometry",
+                                    "ap1ID": "6dfd8ee9-b340-4fd3-bbf1-becdcfed83a4",
+                                    "ap2ID": "87a5ffa5-833c-4201-b9a8-7411ba5490ec"
                                 }
                             ],
                             "fileTypeVersion": 1,
-                            "compiledBom": {}
+                            "compiledBom": []
+                        },
+                        {
+                            "atomType": "Move",
+                            "name": "Move",
+                            "x": 0.33223031105228323,
+                            "y": 0.5988857938718662,
+                            "uniqueID": "8f850946-5d61-4663-8225-a78afc2e32ba",
+                            "ioValues": [
+                                {
+                                    "name": "geometry",
+                                    "ioValue": "d3207d69-8973-41ff-b0be-900e8025a05c",
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "xDist",
+                                    "ioValue": 1219.1999999999998,
+                                    "currentEquation": "(96/2)*25.4"
+                                },
+                                {
+                                    "name": "yDist",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "zDist",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                }
+                            ],
+                            "description": "Moves a shape laterally in X, Y, Z."
                         }
                     ],
                     "allConnectors": [
                         {
+                            "ap1Name": "geometry",
+                            "ap2Name": "number or geometry",
+                            "ap1ID": "aa010195-6574-45ac-acf6-bf802d1bf048",
+                            "ap2ID": "ffa26f68-d9e8-4051-a70c-a228ec89c8a9"
+                        },
+                        {
                             "ap1Name": "geometry or number",
                             "ap2Name": "geometry",
-                            "ap1ID": "5bd53c02-5324-4371-93e4-eae4d8ccd93c",
+                            "ap1ID": "d3207d69-8973-41ff-b0be-900e8025a05c",
+                            "ap2ID": "8f850946-5d61-4663-8225-a78afc2e32ba"
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "geometry",
+                            "ap1ID": "8f850946-5d61-4663-8225-a78afc2e32ba",
                             "ap2ID": "aa010195-6574-45ac-acf6-bf802d1bf048"
                         }
                     ],
                     "fileTypeVersion": 1,
                     "compiledBom": [
                         {
-                            "BOMitemName": "name",
+                            "BOMitemName": "96 inch 2x6",
                             "numberNeeded": 1,
-                            "costUSD": 0,
-                            "source": "www.example.com"
+                            "costUSD": 20.68,
+                            "source": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-8-ft-Rocky-Harbor-Square-Edge-Composite-Deck-Board-RH010608E2S01/310567552"
                         }
                     ]
                 }
