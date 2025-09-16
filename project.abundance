@@ -2104,19 +2104,19 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Linear-Pattern",
-                    "x": 0.3970880211780278,
-                    "y": 0.7437325905292479,
+                    "x": 0.4030443414956982,
+                    "y": 0.7576601671309192,
                     "uniqueID": "fcd496dc-ca8c-4518-aa35-ddaedd775fbf",
                     "ioValues": [
                         {
                             "name": "Number",
-                            "ioValue": 23,
-                            "currentEquation": "23"
+                            "ioValue": 24,
+                            "currentEquation": "24"
                         },
                         {
                             "name": "Dist",
-                            "ioValue": 150,
-                            "currentEquation": "150"
+                            "ioValue": 151,
+                            "currentEquation": "151"
                         },
                         {
                             "name": "Geometry",
@@ -2156,12 +2156,12 @@
                                 },
                                 {
                                     "name": "Number",
-                                    "ioValue": 23,
+                                    "ioValue": 24,
                                     "currentEquation": null
                                 },
                                 {
                                     "name": "Dist",
-                                    "ioValue": 150,
+                                    "ioValue": 151,
                                     "currentEquation": null
                                 }
                             ],
@@ -2272,8 +2272,8 @@
                     "compiledBom": [
                         {
                             "BOMitemName": "96 inch 2x6",
-                            "numberNeeded": 23,
-                            "costUSD": 475.6400000000001,
+                            "numberNeeded": 24,
+                            "costUSD": 496.3200000000001,
                             "source": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-8-ft-Rocky-Harbor-Square-Edge-Composite-Deck-Board-RH010608E2S01/310567552"
                         }
                     ]
@@ -2281,8 +2281,8 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.5684976836532097,
-                    "y": 0.7938718662952646,
+                    "x": 0.5671740569159497,
+                    "y": 0.7715877437325905,
                     "uniqueID": "f7ce7e35-519a-4761-818c-c01c38468936",
                     "ioValues": [
                         {
@@ -2292,8 +2292,8 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 3340,
-                            "currentEquation": "3340"
+                            "ioValue": 3160,
+                            "currentEquation": "3160"
                         },
                         {
                             "name": "yDist",
@@ -2381,8 +2381,8 @@
             "compiledBom": [
                 {
                     "BOMitemName": "96 inch 2x6",
-                    "numberNeeded": 23,
-                    "costUSD": 475.6400000000001,
+                    "numberNeeded": 24,
+                    "costUSD": 496.3200000000001,
                     "source": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-8-ft-Rocky-Harbor-Square-Edge-Composite-Deck-Board-RH010608E2S01/310567552"
                 },
                 {
@@ -2850,8 +2850,8 @@
                         {
                             "atomType": "Move",
                             "name": "Move",
-                            "x": 0.6997354497354497,
-                            "y": 0.446927374301676,
+                            "x": 0.7021839841164791,
+                            "y": 0.4568245125348189,
                             "uniqueID": "0de3f6e3-31ef-4ef2-b018-8c534e75e4c0",
                             "ioValues": [
                                 {
@@ -2940,8 +2940,8 @@
                         {
                             "atomType": "Fusion",
                             "name": "Fusion",
-                            "x": 0.37367724867724866,
-                            "y": 0.5558659217877094,
+                            "x": 0.3732627399073461,
+                            "y": 0.5598885793871866,
                             "uniqueID": "e534a442-6f60-427e-9205-f16ffeeb4de8",
                             "ioValues": [
                                 {
@@ -3083,8 +3083,8 @@
                                 {
                                     "atomType": "ShrinkWrap",
                                     "name": "Shrink Wrap",
-                                    "x": 0.24801587301587302,
-                                    "y": 0.5670391061452513,
+                                    "x": 0.25479814692256786,
+                                    "y": 0.5013927576601671,
                                     "uniqueID": "950504d8-44cc-4b1d-abb3-5518897a2fe7",
                                     "ioValues": [
                                         {
@@ -3179,8 +3179,8 @@
                                 {
                                     "atomType": "Extrude",
                                     "name": "Extrude",
-                                    "x": 0.4001322751322751,
-                                    "y": 0.5307262569832402,
+                                    "x": 0.5830575777630709,
+                                    "y": 0.3983286908077995,
                                     "uniqueID": "f4050e58-2823-401c-b8af-9902f388e3a1",
                                     "ioValues": [
                                         {
@@ -3199,8 +3199,8 @@
                                 {
                                     "atomType": "Rotate",
                                     "name": "Rotate",
-                                    "x": 0.5932539682539683,
-                                    "y": 0.4608938547486033,
+                                    "x": 0.8272667107875579,
+                                    "y": 0.3537604456824513,
                                     "uniqueID": "3aac5acb-ec86-42aa-899d-358d09cf78ff",
                                     "ioValues": [
                                         {
@@ -3227,15 +3227,252 @@
                                     "description": "Rotates the input geometry around the X, Y, or Z axis. Inputs are degrees."
                                 },
                                 {
-                                    "atomType": "Readme",
-                                    "name": "README",
-                                    "x": 0.48611111111111116,
-                                    "y": 0.26256983240223464,
-                                    "uniqueID": "293cd631-ccb7-48ae-961e-2e68cf839df3",
+                                    "atomType": "Molecule",
+                                    "name": "Outline",
+                                    "x": 0.2673726009265387,
+                                    "y": 0.8774373259052926,
+                                    "uniqueID": "373d784a-85b9-4654-af25-982de9dfc1e6",
                                     "ioValues": [],
-                                    "description": "A place to put project notes. These will appear in the GitHub readme and in the description of molecules up the chain. Markdown is supported. ",
-                                    "readMeText": "Readme text here",
-                                    "global": true
+                                    "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
+                                    "topLevel": false,
+                                    "allAtoms": [
+                                        {
+                                            "atomType": "Output",
+                                            "name": "Output",
+                                            "x": 0.98,
+                                            "y": 0.5,
+                                            "uniqueID": "b6fce7bf-e223-4841-b09a-6800e6fc743a",
+                                            "ioValues": [
+                                                {
+                                                    "name": "number or geometry",
+                                                    "ioValue": "0d9d6899-eddd-46b8-91f4-385468719666",
+                                                    "currentEquation": null
+                                                }
+                                            ],
+                                            "description": "Connect geometry here to make it available in the next level up. "
+                                        },
+                                        {
+                                            "atomType": "Rectangle",
+                                            "name": "Rectangle",
+                                            "x": 0.07341269841269842,
+                                            "y": 0.5363128491620112,
+                                            "uniqueID": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
+                                            "ioValues": [
+                                                {
+                                                    "name": "x length",
+                                                    "ioValue": 2138.4,
+                                                    "currentEquation": "2438.4-300"
+                                                },
+                                                {
+                                                    "name": "y length",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                }
+                                            ],
+                                            "description": "Creates a new rectangle."
+                                        },
+                                        {
+                                            "atomType": "Circle",
+                                            "name": "Circle",
+                                            "x": 0.06084656084656084,
+                                            "y": 0.3324022346368715,
+                                            "uniqueID": "48e1ce8b-d21a-4493-9c92-d6561c4cbb30",
+                                            "ioValues": [
+                                                {
+                                                    "name": "diameter",
+                                                    "ioValue": 700,
+                                                    "currentEquation": "1000-300"
+                                                }
+                                            ],
+                                            "description": "Creates a new circle."
+                                        },
+                                        {
+                                            "atomType": "Move",
+                                            "name": "Move",
+                                            "x": 0.15013227513227512,
+                                            "y": 0.2737430167597765,
+                                            "uniqueID": "3ac59897-ca0b-4170-a336-20c16774b7d6",
+                                            "ioValues": [
+                                                {
+                                                    "name": "geometry",
+                                                    "ioValue": "48e1ce8b-d21a-4493-9c92-d6561c4cbb30",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "xDist",
+                                                    "ioValue": 669.2,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "yDist",
+                                                    "ioValue": 1760,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "zDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                }
+                                            ],
+                                            "description": "Moves a shape laterally in X, Y, Z."
+                                        },
+                                        {
+                                            "atomType": "ShrinkWrap",
+                                            "name": "Shrink Wrap",
+                                            "x": 0.25479814692256786,
+                                            "y": 0.5013927576601671,
+                                            "uniqueID": "0d9d6899-eddd-46b8-91f4-385468719666",
+                                            "ioValues": [
+                                                {
+                                                    "name": "Shape 1",
+                                                    "ioValue": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "Shape 2",
+                                                    "ioValue": "3ac59897-ca0b-4170-a336-20c16774b7d6",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "Shape 3",
+                                                    "ioValue": "60a163f5-db11-4ad7-aa1b-207ccd163fc0",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "Shape 4",
+                                                    "ioValue": "",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "Shape 1",
+                                                    "ioValue": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396"
+                                                },
+                                                {
+                                                    "name": "Shape 2",
+                                                    "ioValue": "3ac59897-ca0b-4170-a336-20c16774b7d6"
+                                                },
+                                                {
+                                                    "name": "Shape 3",
+                                                    "ioValue": "60a163f5-db11-4ad7-aa1b-207ccd163fc0"
+                                                },
+                                                {
+                                                    "name": "Shape 4",
+                                                    "ioValue": ""
+                                                }
+                                            ],
+                                            "description": "Joins two or more drawings into a single sketch by filling in the space between them. Also called 'hull'"
+                                        },
+                                        {
+                                            "atomType": "Rectangle",
+                                            "name": "Rectangle",
+                                            "x": 0.0548941798941799,
+                                            "y": 0.8631284916201117,
+                                            "uniqueID": "502cb3ca-32a6-42c5-bd44-8e1366fb1af1",
+                                            "ioValues": [
+                                                {
+                                                    "name": "x length",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "y length",
+                                                    "ioValue": 100,
+                                                    "currentEquation": null
+                                                }
+                                            ],
+                                            "description": "Creates a new rectangle."
+                                        },
+                                        {
+                                            "atomType": "Move",
+                                            "name": "Move",
+                                            "x": 0.16335978835978837,
+                                            "y": 0.8128491620111732,
+                                            "uniqueID": "60a163f5-db11-4ad7-aa1b-207ccd163fc0",
+                                            "ioValues": [
+                                                {
+                                                    "name": "geometry",
+                                                    "ioValue": "502cb3ca-32a6-42c5-bd44-8e1366fb1af1",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "xDist",
+                                                    "ioValue": -1450,
+                                                    "currentEquation": "-1600+150"
+                                                },
+                                                {
+                                                    "name": "yDist",
+                                                    "ioValue": 2385,
+                                                    "currentEquation": "2535-150"
+                                                },
+                                                {
+                                                    "name": "zDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                }
+                                            ],
+                                            "description": "Moves a shape laterally in X, Y, Z."
+                                        },
+                                        {
+                                            "atomType": "Readme",
+                                            "name": "README",
+                                            "x": 0.42885506287227004,
+                                            "y": 0.31197771587743733,
+                                            "uniqueID": "276e309a-cd6a-4c24-a127-3282630c6db9",
+                                            "ioValues": [],
+                                            "description": "A place to put project notes. These will appear in the GitHub readme and in the description of molecules up the chain. Markdown is supported. ",
+                                            "readMeText": "This is 150 mm thinner than the outside one",
+                                            "global": true
+                                        }
+                                    ],
+                                    "allConnectors": [
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "Shape 1",
+                                            "ap1ID": "dec3e9b7-3874-48ba-a1ca-64b98b0d4396",
+                                            "ap2ID": "0d9d6899-eddd-46b8-91f4-385468719666"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "48e1ce8b-d21a-4493-9c92-d6561c4cbb30",
+                                            "ap2ID": "3ac59897-ca0b-4170-a336-20c16774b7d6"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "Shape 2",
+                                            "ap1ID": "3ac59897-ca0b-4170-a336-20c16774b7d6",
+                                            "ap2ID": "0d9d6899-eddd-46b8-91f4-385468719666"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "number or geometry",
+                                            "ap1ID": "0d9d6899-eddd-46b8-91f4-385468719666",
+                                            "ap2ID": "b6fce7bf-e223-4841-b09a-6800e6fc743a"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "502cb3ca-32a6-42c5-bd44-8e1366fb1af1",
+                                            "ap2ID": "60a163f5-db11-4ad7-aa1b-207ccd163fc0"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "Shape 3",
+                                            "ap1ID": "60a163f5-db11-4ad7-aa1b-207ccd163fc0",
+                                            "ap2ID": "0d9d6899-eddd-46b8-91f4-385468719666"
+                                        }
+                                    ],
+                                    "fileTypeVersion": 1,
+                                    "compiledBom": []
+                                },
+                                {
+                                    "atomType": "Difference",
+                                    "name": "Difference",
+                                    "x": 0.41561879549966907,
+                                    "y": 0.6545961002785515,
+                                    "uniqueID": "4449c9c2-76b6-4850-9dea-4a50f1927040",
+                                    "ioValues": [],
+                                    "description": "Subtracts shape two from shape one."
                                 }
                             ],
                             "allConnectors": [
@@ -3286,7 +3523,8 @@
                                     "ap2Name": "number or geometry",
                                     "ap1ID": "3aac5acb-ec86-42aa-899d-358d09cf78ff",
                                     "ap2ID": "ec1f3860-c644-4340-9815-70d51307845c"
-                                }
+                                },
+                                null
                             ],
                             "fileTypeVersion": 1,
                             "compiledBom": []
@@ -4538,8 +4776,8 @@
     "compiledBom": [
         {
             "BOMitemName": "96 inch 2x6",
-            "numberNeeded": 23,
-            "costUSD": 475.6400000000001,
+            "numberNeeded": 24,
+            "costUSD": 496.3200000000001,
             "source": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-8-ft-Rocky-Harbor-Square-Edge-Composite-Deck-Board-RH010608E2S01/310567552"
         },
         {

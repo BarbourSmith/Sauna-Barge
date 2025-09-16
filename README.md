@@ -6,7 +6,7 @@
 
 
 
- Readme text here
+ This is 150 mm thinner than the outside one
 
 Readme text here
 
