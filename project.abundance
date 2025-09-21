@@ -4817,18 +4817,18 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 0,
-                                    "currentEquation": null
+                                    "ioValue": 1200,
+                                    "currentEquation": "1200"
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": 0,
-                                    "currentEquation": null
+                                    "ioValue": -585,
+                                    "currentEquation": "-585"
                                 },
                                 {
                                     "name": "zDist",
-                                    "ioValue": 0,
-                                    "currentEquation": null
+                                    "ioValue": 1200,
+                                    "currentEquation": "1200"
                                 }
                             ]
                         }
