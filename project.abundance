@@ -2328,7 +2328,7 @@
                     "ioValues": [
                         {
                             "name": "number or geometry",
-                            "ioValue": "48c21881-5103-439a-a1ad-24eb7dd9b7d8",
+                            "ioValue": "a579534d-1b0a-43a7-8e82-c005852d6fa5",
                             "currentEquation": null
                         }
                     ]
@@ -4669,8 +4669,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Windows",
-                    "x": 0.4300254452926208,
-                    "y": 0.7364864864864864,
+                    "x": 0.5776081424936387,
+                    "y": 0.5033783783783784,
                     "uniqueID": "a579534d-1b0a-43a7-8e82-c005852d6fa5",
                     "ioValues": [
                         {
@@ -4859,8 +4859,8 @@
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": -1273.1999999999998,
-                                    "currentEquation": "-48*25.4-18*3"
+                                    "ioValue": -1219.1999999999998,
+                                    "currentEquation": "-48*25.4"
                                 },
                                 {
                                     "name": "zDist",
@@ -4888,8 +4888,8 @@
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": -1273.1999999999998,
-                                    "currentEquation": "-48*25.4-18*3"
+                                    "ioValue": -1219.1999999999998,
+                                    "currentEquation": "-48*25.4"
                                 },
                                 {
                                     "name": "zDist",
@@ -4980,15 +4980,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": "48c21881-5103-439a-a1ad-24eb7dd9b7d8",
-                    "ap2ID": "e0fd5d75-e330-4c2d-8517-6b376e83220a"
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "input",
                     "ap1ID": "48c21881-5103-439a-a1ad-24eb7dd9b7d8",
                     "ap2ID": "a579534d-1b0a-43a7-8e82-c005852d6fa5"
+                },
+                {
+                    "ap1Name": "geometry or number",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": "a579534d-1b0a-43a7-8e82-c005852d6fa5",
+                    "ap2ID": "e0fd5d75-e330-4c2d-8517-6b376e83220a"
                 }
             ],
             "fileTypeVersion": 1,
