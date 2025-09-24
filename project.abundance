@@ -10342,8 +10342,8 @@
                         {
                             "atomType": "Assembly",
                             "name": "Assembly",
-                            "x": 0.7017195767195767,
-                            "y": 0.3203342618384401,
+                            "x": 0.6944444444444444,
+                            "y": 0.33147632311977715,
                             "uniqueID": "9b872eac-53a2-4222-9f7b-fbcf4ef2e5ac",
                             "ioValues": [
                                 {
@@ -11756,6 +11756,959 @@
                                             [],
                                             [],
                                             []
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Shape 6",
+                                    "ioValue": {
+                                        "geometry": [
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-395-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-396-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-397-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-398-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-399-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-400-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-401-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-402-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-403-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-404-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-405-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-406-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-407-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-408-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-409-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-410-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-411-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-412-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-413-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-414-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-415-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-416-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-417-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-418-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            },
+                                            {
+                                                "geometry": "move-rotate-intersect-move-rotate-singular-419-0-0-90--1828.8-0-0-move-extrude-shrinkWrap-fuse-fuse-move-circle-500-669.2-1760-0-rectangle-2438.4-10-move-rectangle-10-100--1600-2535-0-50-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-180-0-0--50-90-0-0-0--28-0",
+                                                "tags": [],
+                                                "color": "#aad7f2",
+                                                "plane": {
+                                                    "origin": [
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "xDir": [
+                                                        1,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "normal": [
+                                                        0,
+                                                        0,
+                                                        1
+                                                    ]
+                                                },
+                                                "bom": [
+                                                    {
+                                                        "BOMitemName": "Cedar Shiplap",
+                                                        "numberNeeded": 1,
+                                                        "costUSD": 0,
+                                                        "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                    }
+                                                ],
+                                                "dimension": "3D"
+                                            }
+                                        ],
+                                        "plane": {
+                                            "origin": [
+                                                0,
+                                                0,
+                                                0
+                                            ],
+                                            "xDir": [
+                                                1,
+                                                0,
+                                                0
+                                            ],
+                                            "normal": [
+                                                0,
+                                                0,
+                                                1
+                                            ]
+                                        },
+                                        "color": "#aad7f2",
+                                        "tags": [],
+                                        "bom": [
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            },
+                                            {
+                                                "BOMitemName": "Cedar Shiplap",
+                                                "numberNeeded": 1,
+                                                "costUSD": 0,
+                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                            }
                                         ]
                                     }
                                 }
@@ -14516,8 +15469,8 @@
                         {
                             "atomType": "Molecule",
                             "name": "Shiplap Wall",
-                            "x": 0.4312169312169312,
-                            "y": 0.8440111420612814,
+                            "x": 0.42724867724867727,
+                            "y": 0.818941504178273,
                             "uniqueID": "d5697d7a-4a76-45a1-99ea-d9ace547e27c",
                             "ioValues": [],
                             "topLevel": false,
@@ -14529,11 +15482,1206 @@
                                     "y": 0.5,
                                     "uniqueID": "501d4b89-c006-402a-a53a-6b634897bb02",
                                     "ioValues": []
+                                },
+                                {
+                                    "atomType": "Molecule",
+                                    "name": "Outline",
+                                    "x": 0.1970899470899471,
+                                    "y": 0.3899721448467966,
+                                    "uniqueID": "7980b441-50fa-4485-b85a-68789e054b57",
+                                    "ioValues": [],
+                                    "topLevel": false,
+                                    "allAtoms": [
+                                        {
+                                            "atomType": "Output",
+                                            "name": "Output",
+                                            "x": 0.98,
+                                            "y": 0.5,
+                                            "uniqueID": "4abdd5b7-c034-4605-baf9-3cda2c0eabb3",
+                                            "ioValues": []
+                                        },
+                                        {
+                                            "atomType": "Rectangle",
+                                            "name": "Rectangle",
+                                            "x": 0.07341269841269842,
+                                            "y": 0.5363128491620112,
+                                            "uniqueID": "3adbd7a8-20b2-4c20-8f80-3dc873cdd36f",
+                                            "ioValues": [
+                                                {
+                                                    "name": "x length",
+                                                    "ioValue": 2438.4,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "y length",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Circle",
+                                            "name": "Circle",
+                                            "x": 0.06084656084656084,
+                                            "y": 0.3324022346368715,
+                                            "uniqueID": "b0bf0754-da87-4d8b-b006-1b6d07d1760f",
+                                            "ioValues": [
+                                                {
+                                                    "name": "diameter",
+                                                    "ioValue": 1000,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Move",
+                                            "name": "Move",
+                                            "x": 0.15013227513227512,
+                                            "y": 0.2737430167597765,
+                                            "uniqueID": "28893925-942d-4f85-889c-a03bdfa7ad6c",
+                                            "ioValues": [
+                                                {
+                                                    "name": "xDist",
+                                                    "ioValue": 669.2,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "yDist",
+                                                    "ioValue": 1760,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "zDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "ShrinkWrap",
+                                            "name": "Shrink Wrap",
+                                            "x": 0.24818001323626734,
+                                            "y": 0.520891364902507,
+                                            "uniqueID": "e06abae2-4a23-41ba-aafa-bba0ff393ae5",
+                                            "ioValues": [
+                                                {
+                                                    "name": "Shape 4",
+                                                    "ioValue": "",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "Shape 4",
+                                                    "ioValue": ""
+                                                },
+                                                {
+                                                    "name": "Shape 1",
+                                                    "ioValue": {
+                                                        "geometry": "rectangle-2438.4-10",
+                                                        "dimension": "2D",
+                                                        "plane": {
+                                                            "origin": [
+                                                                0,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "xDir": [
+                                                                1,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "normal": [
+                                                                0,
+                                                                0,
+                                                                1
+                                                            ]
+                                                        },
+                                                        "color": "#aad7f2",
+                                                        "tags": [],
+                                                        "bom": []
+                                                    }
+                                                },
+                                                {
+                                                    "name": "Shape 2",
+                                                    "ioValue": {
+                                                        "geometry": "move-circle-500-669.2-1760-0",
+                                                        "dimension": "2D",
+                                                        "tags": [],
+                                                        "plane": {
+                                                            "origin": [
+                                                                0,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "xDir": [
+                                                                1,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "normal": [
+                                                                0,
+                                                                0,
+                                                                1
+                                                            ]
+                                                        },
+                                                        "color": "#aad7f2",
+                                                        "bom": []
+                                                    }
+                                                },
+                                                {
+                                                    "name": "Shape 3",
+                                                    "ioValue": {
+                                                        "geometry": "move-rectangle-10-100--1600-2535-0",
+                                                        "dimension": "2D",
+                                                        "plane": {
+                                                            "origin": [
+                                                                0,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "xDir": [
+                                                                1,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "normal": [
+                                                                0,
+                                                                0,
+                                                                1
+                                                            ]
+                                                        },
+                                                        "color": "#aad7f2",
+                                                        "tags": [],
+                                                        "bom": []
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Rectangle",
+                                            "name": "Rectangle",
+                                            "x": 0.0548941798941799,
+                                            "y": 0.8631284916201117,
+                                            "uniqueID": "5e5d27b1-7ce7-4d69-b659-63450a121a3e",
+                                            "ioValues": [
+                                                {
+                                                    "name": "x length",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "y length",
+                                                    "ioValue": 100,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Move",
+                                            "name": "Move",
+                                            "x": 0.16335978835978837,
+                                            "y": 0.8128491620111732,
+                                            "uniqueID": "70f75d87-d5d5-4d16-b70e-7e106f5205b4",
+                                            "ioValues": [
+                                                {
+                                                    "name": "xDist",
+                                                    "ioValue": -1600,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "yDist",
+                                                    "ioValue": 2535,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "zDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Extrude",
+                                            "name": "Extrude",
+                                            "x": 0.41534391534391535,
+                                            "y": 0.24512534818941506,
+                                            "uniqueID": "5c400d00-ca95-452e-808b-6cbdfb55c6e7",
+                                            "ioValues": [
+                                                {
+                                                    "name": "height",
+                                                    "ioValue": 180,
+                                                    "currentEquation": "180"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Rotate",
+                                            "name": "Rotate",
+                                            "x": 0.8272667107875579,
+                                            "y": 0.3537604456824513,
+                                            "uniqueID": "062d18c6-8c61-4fa9-9234-a25f5fe26dde",
+                                            "ioValues": [
+                                                {
+                                                    "name": "x-axis degrees",
+                                                    "ioValue": 90,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "y-axis degrees",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "z-axis degrees",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "GitHubMolecule",
+                                            "name": "Shiplap Cedar Board",
+                                            "x": 0.28769841269841273,
+                                            "y": 0.8328690807799443,
+                                            "uniqueID": "9a5f56fd-aac5-4d66-8237-4b739f44cb59",
+                                            "ioValues": [
+                                                {
+                                                    "name": "Length",
+                                                    "ioValue": 3657.6,
+                                                    "currentEquation": "12*12*25.4"
+                                                }
+                                            ],
+                                            "topLevel": false,
+                                            "allAtoms": [
+                                                {
+                                                    "atomType": "Output",
+                                                    "name": "Output",
+                                                    "x": 0.98,
+                                                    "y": 0.5,
+                                                    "uniqueID": "ff064fd8-423e-4445-b935-f32fbaeed484",
+                                                    "ioValues": []
+                                                },
+                                                {
+                                                    "atomType": "Input",
+                                                    "name": "Length",
+                                                    "x": 0.029699999999999997,
+                                                    "y": 0.5069637883008357,
+                                                    "uniqueID": "94f2785c-c0b3-498c-8562-f01d57c6b384",
+                                                    "ioValues": [],
+                                                    "type": "number"
+                                                },
+                                                {
+                                                    "atomType": "Equation",
+                                                    "name": "Equation",
+                                                    "x": 0.23015873015873015,
+                                                    "y": 0.7827298050139275,
+                                                    "uniqueID": "637587d2-8123-423b-b9d0-cf8f16cfe4e5",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "y",
+                                                            "ioValue": 1,
+                                                            "currentEquation": null
+                                                        }
+                                                    ],
+                                                    "currentEquation": "x + y"
+                                                },
+                                                {
+                                                    "atomType": "Readme",
+                                                    "name": "README",
+                                                    "x": 0.09060846560846561,
+                                                    "y": 0.30919220055710306,
+                                                    "uniqueID": "3d1803cc-54af-4adc-b468-d15c431fa48b",
+                                                    "ioValues": [],
+                                                    "readMeText": "Length is in inches, but model is in mm",
+                                                    "global": true
+                                                },
+                                                {
+                                                    "atomType": "Molecule",
+                                                    "name": "ShipLap Board",
+                                                    "x": 0.39219576719576715,
+                                                    "y": 0.34261838440111425,
+                                                    "uniqueID": "27d45611-9596-4aff-97ac-c572dd6089da",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "Length",
+                                                            "ioValue": 3657.6,
+                                                            "currentEquation": null
+                                                        }
+                                                    ],
+                                                    "topLevel": false,
+                                                    "allAtoms": [
+                                                        {
+                                                            "atomType": "Output",
+                                                            "name": "Output",
+                                                            "x": 0.98,
+                                                            "y": 0.5,
+                                                            "uniqueID": "0896e8cf-4562-4267-8d65-5c56ecfe599f",
+                                                            "ioValues": []
+                                                        },
+                                                        {
+                                                            "atomType": "Rectangle",
+                                                            "name": "Rectangle",
+                                                            "x": 0.20044052863436124,
+                                                            "y": 0.5598885793871866,
+                                                            "uniqueID": "afb7c4ad-0619-43f3-a7d8-eea721f77ca3",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "x length",
+                                                                    "ioValue": 17.46,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "y length",
+                                                                    "ioValue": 107.47,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "atomType": "Rectangle",
+                                                            "name": "Rectangle",
+                                                            "x": 0.14537444933920704,
+                                                            "y": 0.2256267409470752,
+                                                            "uniqueID": "7cdaa519-0e78-4f93-a12d-bb21b1cfb773",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "x length",
+                                                                    "ioValue": 10,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "y length",
+                                                                    "ioValue": 10,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "atomType": "Move",
+                                                            "name": "Move",
+                                                            "x": 0.3017621145374449,
+                                                            "y": 0.3593314763231198,
+                                                            "uniqueID": "f70fb89d-962f-4d30-8d91-ffe011bd1678",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "xDist",
+                                                                    "ioValue": 0,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "yDist",
+                                                                    "ioValue": 58.73,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "zDist",
+                                                                    "ioValue": 0,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "atomType": "Fusion",
+                                                            "name": "Fusion",
+                                                            "x": 0.4317180616740088,
+                                                            "y": 0.4512534818941504,
+                                                            "uniqueID": "cf7217b8-799f-4a22-9ad2-f1fed051ccd3",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "Shape 1",
+                                                                    "ioValue": {
+                                                                        "geometry": "move-rectangle-10-10-0-58.73-0",
+                                                                        "dimension": "2D",
+                                                                        "plane": {
+                                                                            "origin": [
+                                                                                0,
+                                                                                0,
+                                                                                0
+                                                                            ],
+                                                                            "xDir": [
+                                                                                1,
+                                                                                0,
+                                                                                0
+                                                                            ],
+                                                                            "normal": [
+                                                                                0,
+                                                                                0,
+                                                                                1
+                                                                            ]
+                                                                        },
+                                                                        "color": "#aad7f2",
+                                                                        "tags": [],
+                                                                        "bom": []
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "name": "Shape 2",
+                                                                    "ioValue": {
+                                                                        "geometry": "rectangle-17.46-107.47",
+                                                                        "dimension": "2D",
+                                                                        "plane": {
+                                                                            "origin": [
+                                                                                0,
+                                                                                0,
+                                                                                0
+                                                                            ],
+                                                                            "xDir": [
+                                                                                1,
+                                                                                0,
+                                                                                0
+                                                                            ],
+                                                                            "normal": [
+                                                                                0,
+                                                                                0,
+                                                                                1
+                                                                            ]
+                                                                        },
+                                                                        "color": "#aad7f2",
+                                                                        "tags": [],
+                                                                        "bom": []
+                                                                    }
+                                                                }
+                                                            ],
+                                                            "unionType": "Fusion"
+                                                        },
+                                                        {
+                                                            "atomType": "Move",
+                                                            "name": "Move",
+                                                            "x": 0.4350220264317181,
+                                                            "y": 0.1532033426183844,
+                                                            "uniqueID": "3522171f-8eab-4860-9f2c-8b94ebf1858c",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "xDist",
+                                                                    "ioValue": 0,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "yDist",
+                                                                    "ioValue": -49,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "zDist",
+                                                                    "ioValue": 0,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "atomType": "Difference",
+                                                            "name": "Difference",
+                                                            "x": 0.5462555066079295,
+                                                            "y": 0.298050139275766,
+                                                            "uniqueID": "8ce71340-6e1a-4db3-a95e-0294b2abcaca",
+                                                            "ioValues": []
+                                                        },
+                                                        {
+                                                            "atomType": "Extrude",
+                                                            "name": "Extrude",
+                                                            "x": 0.6964285714285714,
+                                                            "y": 0.49860724233983283,
+                                                            "uniqueID": "7ee634d5-c98b-4bab-b338-b0672ffff354",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "height",
+                                                                    "ioValue": 3657.6,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "atomType": "Rotate",
+                                                            "name": "Rotate",
+                                                            "x": 0.8101851851851852,
+                                                            "y": 0.5335195530726257,
+                                                            "uniqueID": "7296c3e1-40d1-4aa5-ad34-9119855e09c4",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "x-axis degrees",
+                                                                    "ioValue": 0,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "y-axis degrees",
+                                                                    "ioValue": 90,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "z-axis degrees",
+                                                                    "ioValue": -90,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "atomType": "Add-BOM-Tag",
+                                                            "name": "Add BOM Tag",
+                                                            "x": 0.8650793650793651,
+                                                            "y": 0.76536312849162,
+                                                            "uniqueID": "38dfff26-3b80-4150-8d84-6ae1b59e462a",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "Item Name",
+                                                                    "ioValue": "New Item",
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "Number Needed",
+                                                                    "ioValue": 1,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "Cost (USD)",
+                                                                    "ioValue": 0,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "Source Link",
+                                                                    "ioValue": "",
+                                                                    "currentEquation": null
+                                                                }
+                                                            ],
+                                                            "BOMitem": {
+                                                                "BOMitemName": "Cedar Shiplap",
+                                                                "numberNeeded": 1,
+                                                                "costUSD": 0,
+                                                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                            }
+                                                        },
+                                                        {
+                                                            "atomType": "Input",
+                                                            "name": "Length",
+                                                            "x": 0.029699999999999997,
+                                                            "y": 0.7604456824512534,
+                                                            "uniqueID": "d70f4172-d07a-44f0-8b09-07bd0fc326a2",
+                                                            "ioValues": [],
+                                                            "type": "number"
+                                                        }
+                                                    ],
+                                                    "allConnectors": [
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "Shape 2",
+                                                            "ap1ID": "afb7c4ad-0619-43f3-a7d8-eea721f77ca3",
+                                                            "ap2ID": "cf7217b8-799f-4a22-9ad2-f1fed051ccd3"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "geometry",
+                                                            "ap1ID": "7cdaa519-0e78-4f93-a12d-bb21b1cfb773",
+                                                            "ap2ID": "f70fb89d-962f-4d30-8d91-ffe011bd1678"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "geometry",
+                                                            "ap1ID": "7cdaa519-0e78-4f93-a12d-bb21b1cfb773",
+                                                            "ap2ID": "3522171f-8eab-4860-9f2c-8b94ebf1858c"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "Shape 1",
+                                                            "ap1ID": "f70fb89d-962f-4d30-8d91-ffe011bd1678",
+                                                            "ap2ID": "cf7217b8-799f-4a22-9ad2-f1fed051ccd3"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "geometry1",
+                                                            "ap1ID": "cf7217b8-799f-4a22-9ad2-f1fed051ccd3",
+                                                            "ap2ID": "8ce71340-6e1a-4db3-a95e-0294b2abcaca"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "geometry2",
+                                                            "ap1ID": "3522171f-8eab-4860-9f2c-8b94ebf1858c",
+                                                            "ap2ID": "8ce71340-6e1a-4db3-a95e-0294b2abcaca"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "geometry",
+                                                            "ap1ID": "8ce71340-6e1a-4db3-a95e-0294b2abcaca",
+                                                            "ap2ID": "7ee634d5-c98b-4bab-b338-b0672ffff354"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "geometry",
+                                                            "ap1ID": "7ee634d5-c98b-4bab-b338-b0672ffff354",
+                                                            "ap2ID": "7296c3e1-40d1-4aa5-ad34-9119855e09c4"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "geometry",
+                                                            "ap1ID": "7296c3e1-40d1-4aa5-ad34-9119855e09c4",
+                                                            "ap2ID": "38dfff26-3b80-4150-8d84-6ae1b59e462a"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "number or geometry",
+                                                            "ap1ID": "38dfff26-3b80-4150-8d84-6ae1b59e462a",
+                                                            "ap2ID": "0896e8cf-4562-4267-8d65-5c56ecfe599f"
+                                                        },
+                                                        {
+                                                            "ap1Name": "number or geometry",
+                                                            "ap2Name": "height",
+                                                            "ap1ID": "d70f4172-d07a-44f0-8b09-07bd0fc326a2",
+                                                            "ap2ID": "7ee634d5-c98b-4bab-b338-b0672ffff354"
+                                                        }
+                                                    ],
+                                                    "fileTypeVersion": 1,
+                                                    "compiledBom": [
+                                                        {
+                                                            "BOMitemName": "Cedar Shiplap",
+                                                            "numberNeeded": 1,
+                                                            "costUSD": 0,
+                                                            "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "allConnectors": [
+                                                {
+                                                    "ap1Name": "number or geometry",
+                                                    "ap2Name": "Length",
+                                                    "ap1ID": "94f2785c-c0b3-498c-8562-f01d57c6b384",
+                                                    "ap2ID": "27d45611-9596-4aff-97ac-c572dd6089da"
+                                                },
+                                                {
+                                                    "ap1Name": "geometry or number",
+                                                    "ap2Name": "number or geometry",
+                                                    "ap1ID": "27d45611-9596-4aff-97ac-c572dd6089da",
+                                                    "ap2ID": "ff064fd8-423e-4445-b935-f32fbaeed484"
+                                                }
+                                            ],
+                                            "parentRepo": {
+                                                "privateRepo": false,
+                                                "repoName": "Shiplap-Cedar-Board",
+                                                "dateCreated": "2025-09-24T18:40:43Z",
+                                                "readMe": "https://raw.githubusercontent.com/BarbourSmith/Shiplap-Cedar-Board/master/README.md?sanitize=true",
+                                                "yyyy": 2025,
+                                                "topMoleculeID": "d10cf47b-bf46-498a-ac57-8167c92d70b5",
+                                                "githubMoleculesUsed": [],
+                                                "html_url": "https://github.com/BarbourSmith/Shiplap-Cedar-Board",
+                                                "topics": [],
+                                                "parentRepo": null,
+                                                "forks": 0,
+                                                "dateModified": "739518",
+                                                "ranking": 0,
+                                                "searchField": "shiplap-cedar-board barboursmith a 1x6 cedar plank ",
+                                                "owner": "BarbourSmith",
+                                                "description": "A 1x6 Cedar Plank",
+                                                "contentURL": "https://raw.githubusercontent.com/BarbourSmith/Shiplap-Cedar-Board/master/project.abundance?sanitize=true",
+                                                "svgURL": "https://raw.githubusercontent.com/BarbourSmith/Shiplap-Cedar-Board/master/project.svg?sanitize=true",
+                                                "isLocal": false
+                                            },
+                                            "unitsKey": "MM",
+                                            "fileTypeVersion": 1,
+                                            "compiledBom": [
+                                                {
+                                                    "BOMitemName": "Cedar Shiplap",
+                                                    "numberNeeded": 1,
+                                                    "costUSD": 0,
+                                                    "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "GitHubMolecule",
+                                            "name": "Linear-Pattern",
+                                            "x": 0.4173280423280424,
+                                            "y": 0.5821727019498607,
+                                            "uniqueID": "f7d10f8f-37e8-4f7b-9fb2-c35bfdf371b6",
+                                            "ioValues": [
+                                                {
+                                                    "name": "Number",
+                                                    "ioValue": 25,
+                                                    "currentEquation": "25"
+                                                },
+                                                {
+                                                    "name": "distX",
+                                                    "ioValue": 108,
+                                                    "currentEquation": "108"
+                                                },
+                                                {
+                                                    "name": "distY",
+                                                    "ioValue": 0,
+                                                    "currentEquation": "0"
+                                                },
+                                                {
+                                                    "name": "distZ",
+                                                    "ioValue": 0,
+                                                    "currentEquation": "0"
+                                                }
+                                            ],
+                                            "topLevel": false,
+                                            "allAtoms": [
+                                                {
+                                                    "atomType": "Output",
+                                                    "name": "Output",
+                                                    "x": 0.98,
+                                                    "y": 0.5,
+                                                    "uniqueID": "61347bef-b5ff-424b-9da9-8344a5b2ead0",
+                                                    "ioValues": []
+                                                },
+                                                {
+                                                    "atomType": "Rectangle",
+                                                    "name": "Rectangle",
+                                                    "x": 0.27976190476190477,
+                                                    "y": 0.2116991643454039,
+                                                    "uniqueID": "a64a7d81-7b76-4b6b-b14f-f3c34a43a9b5",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "x length",
+                                                            "ioValue": 10,
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "y length",
+                                                            "ioValue": 10,
+                                                            "currentEquation": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "atomType": "Input",
+                                                    "name": "Number",
+                                                    "x": 0.029699999999999997,
+                                                    "y": 0.32869080779944293,
+                                                    "uniqueID": "450e8393-17c1-49a2-aed9-a6eb85e04f61",
+                                                    "ioValues": [],
+                                                    "type": "number"
+                                                },
+                                                {
+                                                    "atomType": "Input",
+                                                    "name": "Geometry",
+                                                    "x": 0.029699999999999997,
+                                                    "y": 0.9108635097493036,
+                                                    "uniqueID": "23c40a22-6c5f-4a2e-92e4-b5bc92b21892",
+                                                    "ioValues": [],
+                                                    "type": "geometry"
+                                                },
+                                                {
+                                                    "atomType": "Code",
+                                                    "name": "Code",
+                                                    "x": 0.4901746724890829,
+                                                    "y": 0.7515151515151516,
+                                                    "uniqueID": "02b05d07-2258-493a-87e2-f16826b4c9ba",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "Number",
+                                                            "ioValue": 25,
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "distX",
+                                                            "ioValue": 108,
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "distY",
+                                                            "ioValue": 0,
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "distZ",
+                                                            "ioValue": 0,
+                                                            "currentEquation": null
+                                                        }
+                                                    ],
+                                                    "codeVersion": 1,
+                                                    "code": "//Inputs:[Shape, Number, distX, distY, distZ];\n\n\nlet shapesArray = [];\nfor (let i = 0; i < Number; i++) {\n    let rotatedShape = await Move(Shape, distX * i, distY * i,distZ * i);\n    shapesArray.push(rotatedShape);\n}\n\nlet assembledShape = await Assembly(shapesArray)\n\nreturn assembledShape;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    /**\n    To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n    If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n    Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n    https://replicad.xyz/docs/introapp/UserGuide.html \n    Return a replicad object that includes geometry, color, tags and plane. \n\n\n    Example Code Atom:\n\n      Inputs:[shape, x];\n\n      let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n\n      return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n\n      - See more examples at _______ \n\n\n    */\n"
+                                                },
+                                                {
+                                                    "atomType": "Input",
+                                                    "name": "distX",
+                                                    "x": 0.029699999999999997,
+                                                    "y": 0.5,
+                                                    "uniqueID": "a37e8e1c-245a-4ad3-a61b-005cca3ba921",
+                                                    "ioValues": [],
+                                                    "type": "number"
+                                                },
+                                                {
+                                                    "atomType": "Input",
+                                                    "name": "distY",
+                                                    "x": 0.029699999999999997,
+                                                    "y": 0.6174698795180722,
+                                                    "uniqueID": "5b8bae39-58e6-4a34-9462-f6f069ddc327",
+                                                    "ioValues": [],
+                                                    "type": "number"
+                                                },
+                                                {
+                                                    "atomType": "Input",
+                                                    "name": "distZ",
+                                                    "x": 0.029699999999999997,
+                                                    "y": 0.7650602409638555,
+                                                    "uniqueID": "e3928591-a111-4ecf-9f62-deea58f2ca24",
+                                                    "ioValues": [],
+                                                    "type": "number"
+                                                },
+                                                {
+                                                    "atomType": "Readme",
+                                                    "name": "README",
+                                                    "x": 0.7794759825327511,
+                                                    "y": 0.2787878787878788,
+                                                    "uniqueID": "284da957-c15c-43f0-8c4c-5732331738cf",
+                                                    "ioValues": [],
+                                                    "readMeText": "Readme text here",
+                                                    "global": true
+                                                },
+                                                {
+                                                    "atomType": "Code",
+                                                    "name": "Code",
+                                                    "x": 0.6091703056768559,
+                                                    "y": 0.28787878787878785,
+                                                    "uniqueID": "c5b219d0-2954-4ddb-a893-734c2c3df3c9",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "Number",
+                                                            "ioValue": 5,
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "distX",
+                                                            "ioValue": 15,
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "distY",
+                                                            "ioValue": 2,
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "distZ",
+                                                            "ioValue": 0,
+                                                            "currentEquation": null
+                                                        }
+                                                    ],
+                                                    "codeVersion": 1,
+                                                    "code": "//Inputs:[Shape, Number, distX, distY, distZ];\n\n\nlet shapesArray = [];\nfor (let i = 0; i < Number; i++) {\n    let rotatedShape = await Move(Shape, distX * i, distY * i,distZ * i);\n    shapesArray.push(rotatedShape);\n}\n\nlet assembledShape = await Assembly(shapesArray)\n\nreturn assembledShape;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    /**\n    To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n    If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n    Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n    https://replicad.xyz/docs/introapp/UserGuide.html \n    Return a replicad object that includes geometry, color, tags and plane. \n\n\n    Example Code Atom:\n\n      Inputs:[shape, x];\n\n      let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n\n      return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n\n      - See more examples at _______ \n\n\n    */\n"
+                                                },
+                                                {
+                                                    "atomType": "Extrude",
+                                                    "name": "Extrude",
+                                                    "x": 0.39847161572052403,
+                                                    "y": 0.396969696969697,
+                                                    "uniqueID": "22fb2ba8-2947-4e47-9bd5-6f4efc5f6c01",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "height",
+                                                            "ioValue": 10,
+                                                            "currentEquation": null
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "allConnectors": [
+                                                {
+                                                    "ap1Name": "geometry",
+                                                    "ap2Name": "geometry",
+                                                    "ap1ID": "a64a7d81-7b76-4b6b-b14f-f3c34a43a9b5",
+                                                    "ap2ID": "22fb2ba8-2947-4e47-9bd5-6f4efc5f6c01"
+                                                },
+                                                {
+                                                    "ap1Name": "number or geometry",
+                                                    "ap2Name": "Number",
+                                                    "ap1ID": "450e8393-17c1-49a2-aed9-a6eb85e04f61",
+                                                    "ap2ID": "02b05d07-2258-493a-87e2-f16826b4c9ba"
+                                                },
+                                                {
+                                                    "ap1Name": "number or geometry",
+                                                    "ap2Name": "Shape",
+                                                    "ap1ID": "23c40a22-6c5f-4a2e-92e4-b5bc92b21892",
+                                                    "ap2ID": "02b05d07-2258-493a-87e2-f16826b4c9ba"
+                                                },
+                                                {
+                                                    "ap1Name": "output",
+                                                    "ap2Name": "number or geometry",
+                                                    "ap1ID": "02b05d07-2258-493a-87e2-f16826b4c9ba",
+                                                    "ap2ID": "61347bef-b5ff-424b-9da9-8344a5b2ead0"
+                                                },
+                                                {
+                                                    "ap1Name": "number or geometry",
+                                                    "ap2Name": "distX",
+                                                    "ap1ID": "a37e8e1c-245a-4ad3-a61b-005cca3ba921",
+                                                    "ap2ID": "02b05d07-2258-493a-87e2-f16826b4c9ba"
+                                                },
+                                                {
+                                                    "ap1Name": "number or geometry",
+                                                    "ap2Name": "distY",
+                                                    "ap1ID": "5b8bae39-58e6-4a34-9462-f6f069ddc327",
+                                                    "ap2ID": "02b05d07-2258-493a-87e2-f16826b4c9ba"
+                                                },
+                                                {
+                                                    "ap1Name": "number or geometry",
+                                                    "ap2Name": "distZ",
+                                                    "ap1ID": "e3928591-a111-4ecf-9f62-deea58f2ca24",
+                                                    "ap2ID": "02b05d07-2258-493a-87e2-f16826b4c9ba"
+                                                },
+                                                {
+                                                    "ap1Name": "output",
+                                                    "ap2Name": "geometry",
+                                                    "ap1ID": "c5b219d0-2954-4ddb-a893-734c2c3df3c9",
+                                                    "ap2ID": "284da957-c15c-43f0-8c4c-5732331738cf"
+                                                },
+                                                {
+                                                    "ap1Name": "geometry",
+                                                    "ap2Name": "Shape",
+                                                    "ap1ID": "22fb2ba8-2947-4e47-9bd5-6f4efc5f6c01",
+                                                    "ap2ID": "c5b219d0-2954-4ddb-a893-734c2c3df3c9"
+                                                }
+                                            ],
+                                            "parentRepo": {
+                                                "lastFoundGit": "2025-09-24T15:47:14.730Z",
+                                                "privateRepo": false,
+                                                "repoName": "Linear-Pattern",
+                                                "dateCreated": "2025-02-19T00:40:13Z",
+                                                "readMe": "https://raw.githubusercontent.com/alzatin/Linear-Pattern/master/README.md?sanitize=true",
+                                                "yyyy": 2025,
+                                                "topMoleculeID": 1739925613779,
+                                                "githubMoleculesUsed": [],
+                                                "html_url": "https://github.com/alzatin/Linear-Pattern",
+                                                "topics": [
+                                                    "abundance-tool"
+                                                ],
+                                                "parentRepo": "BarbourSmith/Linear-Pattern",
+                                                "forks": 0,
+                                                "dateModified": "739518",
+                                                "ranking": 10,
+                                                "searchField": "linear-pattern alzatin returns the input shape formed into an assembly translated n times abundance-tool",
+                                                "owner": "alzatin",
+                                                "description": "Returns the input shape formed into an assembly translated n times",
+                                                "contentURL": "https://raw.githubusercontent.com/alzatin/Linear-Pattern/master/project.abundance?sanitize=true",
+                                                "svgURL": "https://raw.githubusercontent.com/alzatin/Linear-Pattern/master/project.svg?sanitize=true",
+                                                "isLocal": false
+                                            },
+                                            "unitsKey": "MM",
+                                            "fileTypeVersion": 1,
+                                            "compiledBom": [
+                                                {
+                                                    "BOMitemName": "Cedar Shiplap",
+                                                    "numberNeeded": 25,
+                                                    "costUSD": 0,
+                                                    "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Rotate",
+                                            "name": "Rotate",
+                                            "x": 0.5205026455026455,
+                                            "y": 0.7604456824512534,
+                                            "uniqueID": "e79dc644-973a-4c01-9093-c1ba8f0f37e0",
+                                            "ioValues": [
+                                                {
+                                                    "name": "x-axis degrees",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "y-axis degrees",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "z-axis degrees",
+                                                    "ioValue": 90,
+                                                    "currentEquation": "90"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Move",
+                                            "name": "Move",
+                                            "x": 0.6216931216931216,
+                                            "y": 0.7103064066852367,
+                                            "uniqueID": "5e35d549-1e8b-4cfd-81f2-d79c7efe488a",
+                                            "ioValues": [
+                                                {
+                                                    "name": "xDist",
+                                                    "ioValue": -1828.8,
+                                                    "currentEquation": "-12*6*25.4"
+                                                },
+                                                {
+                                                    "name": "yDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "zDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Intersection",
+                                            "name": "Intersection",
+                                            "x": 0.6792328042328042,
+                                            "y": 0.3008356545961003,
+                                            "uniqueID": "66fb1c09-b528-4b86-ac71-8b75b0d677ed",
+                                            "ioValues": []
+                                        },
+                                        {
+                                            "atomType": "Move",
+                                            "name": "Move",
+                                            "x": 0.5370370370370371,
+                                            "y": 0.41782729805013924,
+                                            "uniqueID": "0feecef3-2537-4ae5-acb7-0ef9a19295e7",
+                                            "ioValues": [
+                                                {
+                                                    "name": "xDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "yDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "zDist",
+                                                    "ioValue": -50,
+                                                    "currentEquation": "-50"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "allConnectors": [
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "Shape 1",
+                                            "ap1ID": "3adbd7a8-20b2-4c20-8f80-3dc873cdd36f",
+                                            "ap2ID": "e06abae2-4a23-41ba-aafa-bba0ff393ae5"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "b0bf0754-da87-4d8b-b006-1b6d07d1760f",
+                                            "ap2ID": "28893925-942d-4f85-889c-a03bdfa7ad6c"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "Shape 2",
+                                            "ap1ID": "28893925-942d-4f85-889c-a03bdfa7ad6c",
+                                            "ap2ID": "e06abae2-4a23-41ba-aafa-bba0ff393ae5"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "e06abae2-4a23-41ba-aafa-bba0ff393ae5",
+                                            "ap2ID": "5c400d00-ca95-452e-808b-6cbdfb55c6e7"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "5e5d27b1-7ce7-4d69-b659-63450a121a3e",
+                                            "ap2ID": "70f75d87-d5d5-4d16-b70e-7e106f5205b4"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "Shape 3",
+                                            "ap1ID": "70f75d87-d5d5-4d16-b70e-7e106f5205b4",
+                                            "ap2ID": "e06abae2-4a23-41ba-aafa-bba0ff393ae5"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "5c400d00-ca95-452e-808b-6cbdfb55c6e7",
+                                            "ap2ID": "0feecef3-2537-4ae5-acb7-0ef9a19295e7"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "number or geometry",
+                                            "ap1ID": "062d18c6-8c61-4fa9-9234-a25f5fe26dde",
+                                            "ap2ID": "4abdd5b7-c034-4605-baf9-3cda2c0eabb3"
+                                        },
+                                        {
+                                            "ap1Name": "geometry or number",
+                                            "ap2Name": "Geometry",
+                                            "ap1ID": "9a5f56fd-aac5-4d66-8237-4b739f44cb59",
+                                            "ap2ID": "f7d10f8f-37e8-4f7b-9fb2-c35bfdf371b6"
+                                        },
+                                        {
+                                            "ap1Name": "geometry or number",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "f7d10f8f-37e8-4f7b-9fb2-c35bfdf371b6",
+                                            "ap2ID": "e79dc644-973a-4c01-9093-c1ba8f0f37e0"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "e79dc644-973a-4c01-9093-c1ba8f0f37e0",
+                                            "ap2ID": "5e35d549-1e8b-4cfd-81f2-d79c7efe488a"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry1",
+                                            "ap1ID": "5e35d549-1e8b-4cfd-81f2-d79c7efe488a",
+                                            "ap2ID": "66fb1c09-b528-4b86-ac71-8b75b0d677ed"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "66fb1c09-b528-4b86-ac71-8b75b0d677ed",
+                                            "ap2ID": "062d18c6-8c61-4fa9-9234-a25f5fe26dde"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry2",
+                                            "ap1ID": "0feecef3-2537-4ae5-acb7-0ef9a19295e7",
+                                            "ap2ID": "66fb1c09-b528-4b86-ac71-8b75b0d677ed"
+                                        }
+                                    ],
+                                    "fileTypeVersion": 1,
+                                    "compiledBom": [
+                                        {
+                                            "BOMitemName": "Cedar Shiplap",
+                                            "numberNeeded": 25,
+                                            "costUSD": 0,
+                                            "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                        }
+                                    ]
                                 }
                             ],
-                            "allConnectors": [],
+                            "allConnectors": [
+                                {
+                                    "ap1Name": "geometry or number",
+                                    "ap2Name": "number or geometry",
+                                    "ap1ID": "7980b441-50fa-4485-b85a-68789e054b57",
+                                    "ap2ID": "501d4b89-c006-402a-a53a-6b634897bb02"
+                                }
+                            ],
                             "fileTypeVersion": 1,
-                            "compiledBom": {}
+                            "compiledBom": [
+                                {
+                                    "BOMitemName": "Cedar Shiplap",
+                                    "numberNeeded": 25,
+                                    "costUSD": 0,
+                                    "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "Move",
+                            "name": "Move",
+                            "x": 0.6455026455026455,
+                            "y": 0.7827298050139275,
+                            "uniqueID": "28890b23-8014-4426-97bd-e4070882b8ac",
+                            "ioValues": [
+                                {
+                                    "name": "xDist",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                },
+                                {
+                                    "name": "yDist",
+                                    "ioValue": -28,
+                                    "currentEquation": "-10-18"
+                                },
+                                {
+                                    "name": "zDist",
+                                    "ioValue": 0,
+                                    "currentEquation": null
+                                }
+                            ]
                         }
                     ],
                     "allConnectors": [
@@ -14626,10 +16774,29 @@
                             "ap2Name": "geometry",
                             "ap1ID": "0b34480e-8aeb-449e-aa03-d9fbfa9b5f24",
                             "ap2ID": "a123358c-c902-45a9-8d00-30b352d85a11"
+                        },
+                        {
+                            "ap1Name": "geometry or number",
+                            "ap2Name": "geometry",
+                            "ap1ID": "d5697d7a-4a76-45a1-99ea-d9ace547e27c",
+                            "ap2ID": "28890b23-8014-4426-97bd-e4070882b8ac"
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "Shape 6",
+                            "ap1ID": "28890b23-8014-4426-97bd-e4070882b8ac",
+                            "ap2ID": "9b872eac-53a2-4222-9f7b-fbcf4ef2e5ac"
                         }
                     ],
                     "fileTypeVersion": 1,
-                    "compiledBom": []
+                    "compiledBom": [
+                        {
+                            "BOMitemName": "Cedar Shiplap",
+                            "numberNeeded": 25,
+                            "costUSD": 0,
+                            "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
