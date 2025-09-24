@@ -2,10 +2,10 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|name|50|$0|Cost is Estimated|
+|name|67|$0|Cost is Estimated|
 |96 inch 2x6|16|$330.88000000000005|https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-8-ft-Rocky-Harbor-Square-Edge-Composite-Deck-Board-RH010608E2S01/310567552|
-|Cedar Shiplap|50|$0|https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE|
+|Cedar Shiplap|67|$0|https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE|
 |55 Galon Plastic Drum|20|$0|www.example.com|
-|Total: |136|$330.88000000000005| |
+|Total: |170|$330.88000000000005| |
 
  3xCOG MSRP: $992.64
