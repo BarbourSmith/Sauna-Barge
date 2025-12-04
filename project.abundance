@@ -758,7 +758,7 @@
             {
               "atomType": "Input",
               "x": 0.025384615384615384,
-              "y": 0.23076923076923078,
+              "y": 0.24615384615384617,
               "uniqueID": "a4a70f0b-a424-4c4b-9d38-26ae1cadeb65",
               "name": "Dist",
               "type": "number"
@@ -766,7 +766,7 @@
             {
               "atomType": "Input",
               "x": 0.025384615384615384,
-              "y": 0.3076923076923077,
+              "y": 0.3384615384615385,
               "uniqueID": "e1bbe597-c92e-4b15-9c6b-568480f6b777",
               "name": "Geometry",
               "type": "number"
@@ -887,7 +887,7 @@
             {
               "atomType": "Input",
               "x": 0.025384615384615384,
-              "y": 0.23076923076923078,
+              "y": 0.24615384615384617,
               "uniqueID": "da6519fa-4afa-4d08-b952-d74d241f5178",
               "name": "Dist",
               "type": "number"
@@ -895,7 +895,7 @@
             {
               "atomType": "Input",
               "x": 0.025384615384615384,
-              "y": 0.3076923076923077,
+              "y": 0.3384615384615385,
               "uniqueID": "32233345-dea0-4884-84b1-a31f81868992",
               "name": "Geometry",
               "type": "number"
@@ -970,7 +970,8 @@
               "ioValues": [
                 {
                   "name": "Item Name",
-                  "ioValue": "New Item"
+                  "ioValue": "New Item",
+                  "currentEquation": "New Item"
                 },
                 {
                   "name": "Number Needed",
@@ -986,10 +987,10 @@
                 }
               ],
               "BOMitem": {
-                "BOMitemName": "96 inch 2x6",
+                "BOMitemName": "New Item",
                 "numberNeeded": 1,
-                "costUSD": 20.68,
-                "source": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-8-ft-Rocky-Harbor-Square-Edge-Composite-Deck-Board-RH010608E2S01/310567552"
+                "costUSD": 0,
+                "source": ""
               }
             },
             {
@@ -1280,7 +1281,8 @@
                   "ioValues": [
                     {
                       "name": "Item Name",
-                      "ioValue": "New Item"
+                      "ioValue": "New Item",
+                      "currentEquation": "New Item"
                     },
                     {
                       "name": "Number Needed",
@@ -1296,10 +1298,10 @@
                     }
                   ],
                   "BOMitem": {
-                    "BOMitemName": "55 Galon Plastic Drum",
+                    "BOMitemName": "New Item",
                     "numberNeeded": 1,
                     "costUSD": 0,
-                    "source": "www.example.com"
+                    "source": ""
                   }
                 }
               ],
@@ -1362,7 +1364,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.23076923076923078,
+                  "y": 0.24615384615384617,
                   "uniqueID": "id-2020",
                   "name": "Length (Y)",
                   "type": "number"
@@ -1370,7 +1372,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.3076923076923077,
+                  "y": 0.3384615384615385,
                   "uniqueID": "id-2021",
                   "name": "Geometry",
                   "type": "number"
@@ -2132,7 +2134,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.23076923076923078,
+                      "y": 0.24615384615384617,
                       "uniqueID": "id-2049",
                       "name": "Y",
                       "type": "number"
@@ -2158,7 +2160,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.3076923076923077,
+                      "y": 0.3384615384615385,
                       "uniqueID": "id-2051",
                       "name": "Wall Thickness",
                       "type": "number"
@@ -2615,7 +2617,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.38461538461538464,
+                      "y": 0.4307692307692308,
                       "uniqueID": "id-2063",
                       "name": "Height",
                       "type": "number"
@@ -3283,7 +3285,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.23076923076923078,
+                      "y": 0.24615384615384617,
                       "uniqueID": "id-2077",
                       "name": "Y",
                       "type": "number"
@@ -3309,7 +3311,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.3076923076923077,
+                      "y": 0.3384615384615385,
                       "uniqueID": "id-2079",
                       "name": "Wall Thickness",
                       "type": "number"
@@ -3766,7 +3768,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.38461538461538464,
+                      "y": 0.4307692307692308,
                       "uniqueID": "id-2091",
                       "name": "Height",
                       "type": "number"
@@ -4937,7 +4939,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.23076923076923078,
+                  "y": 0.24615384615384617,
                   "uniqueID": "00c9c421-96f3-46c0-9c64-c60dfb56e34b",
                   "name": "Height",
                   "type": "number"
@@ -4945,7 +4947,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.3076923076923077,
+                  "y": 0.3384615384615385,
                   "uniqueID": "367f47a2-200b-49fb-9eb3-f4e662dc48a1",
                   "name": "Radius",
                   "type": "number"
@@ -5717,7 +5719,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.23076923076923078,
+                  "y": 0.24615384615384617,
                   "uniqueID": "2bbd6e1d-64df-462a-a110-435a9333785f",
                   "name": "Geometry",
                   "type": "geometry"
@@ -5751,7 +5753,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.3076923076923077,
+                  "y": 0.3384615384615385,
                   "uniqueID": "e93c1a20-b4b9-4351-a97b-f594439e61ec",
                   "name": "distX",
                   "type": "number"
@@ -5759,7 +5761,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.38461538461538464,
+                  "y": 0.4307692307692308,
                   "uniqueID": "0a1b4307-bef7-40b1-a470-dabf13e8266a",
                   "name": "distY",
                   "type": "number"
@@ -5767,7 +5769,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.46153846153846156,
+                  "y": 0.5230769230769231,
                   "uniqueID": "e1195bc0-7be8-4c62-b538-951c4161474e",
                   "name": "distZ",
                   "type": "number"
@@ -5889,7 +5891,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.23076923076923078,
+                  "y": 0.24615384615384617,
                   "uniqueID": "95c676a9-c2cd-4013-a6ef-05e4160e9532",
                   "name": "Geometry",
                   "type": "geometry"
@@ -5923,7 +5925,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.3076923076923077,
+                  "y": 0.3384615384615385,
                   "uniqueID": "bd47c5a5-c950-43e4-bba4-40bbd78ec872",
                   "name": "distX",
                   "type": "number"
@@ -5931,7 +5933,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.38461538461538464,
+                  "y": 0.4307692307692308,
                   "uniqueID": "768414ed-1e3c-453f-8029-5ec56b84693a",
                   "name": "distY",
                   "type": "number"
@@ -5939,7 +5941,7 @@
                 {
                   "atomType": "Input",
                   "x": 0.025384615384615384,
-                  "y": 0.46153846153846156,
+                  "y": 0.5230769230769231,
                   "uniqueID": "6fd87aa0-49cb-47a7-980c-c46dc35e948a",
                   "name": "distZ",
                   "type": "number"
@@ -6556,7 +6558,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.23076923076923078,
+                      "y": 0.24615384615384617,
                       "uniqueID": "e4fcbfcf-1473-4fa8-9da8-29cf77074159",
                       "name": "Geometry",
                       "type": "geometry"
@@ -6590,7 +6592,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.3076923076923077,
+                      "y": 0.3384615384615385,
                       "uniqueID": "8c961138-e1e6-4114-889a-daf958998067",
                       "name": "distX",
                       "type": "number"
@@ -6598,7 +6600,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.38461538461538464,
+                      "y": 0.4307692307692308,
                       "uniqueID": "4a41ac23-db69-4286-8974-1d44946e9739",
                       "name": "distY",
                       "type": "number"
@@ -6606,7 +6608,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.46153846153846156,
+                      "y": 0.5230769230769231,
                       "uniqueID": "37c4fe13-fd22-458b-be10-d09c0c383b1d",
                       "name": "distZ",
                       "type": "number"
@@ -7282,7 +7284,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.23076923076923078,
+                      "y": 0.24615384615384617,
                       "uniqueID": "83c513f5-4d2e-419a-8d7b-d42d743d1806",
                       "name": "Geometry",
                       "type": "geometry"
@@ -7316,7 +7318,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.3076923076923077,
+                      "y": 0.3384615384615385,
                       "uniqueID": "3612ac2c-829a-46cd-b3af-93bbf94bfb39",
                       "name": "distX",
                       "type": "number"
@@ -7324,7 +7326,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.38461538461538464,
+                      "y": 0.4307692307692308,
                       "uniqueID": "bdd24825-86f0-4273-9ded-7f9f57599adb",
                       "name": "distY",
                       "type": "number"
@@ -7332,7 +7334,7 @@
                     {
                       "atomType": "Input",
                       "x": 0.025384615384615384,
-                      "y": 0.46153846153846156,
+                      "y": 0.5230769230769231,
                       "uniqueID": "a8bf6c2f-2143-41be-8e44-36bafefa898b",
                       "name": "distZ",
                       "type": "number"
@@ -7819,7 +7821,7 @@
                         {
                           "atomType": "Input",
                           "x": 0.025384615384615384,
-                          "y": 0.23076923076923078,
+                          "y": 0.24615384615384617,
                           "uniqueID": "23c40a22-6c5f-4a2e-92e4-b5bc92b21892",
                           "name": "Geometry",
                           "type": "geometry"
@@ -7853,7 +7855,7 @@
                         {
                           "atomType": "Input",
                           "x": 0.025384615384615384,
-                          "y": 0.3076923076923077,
+                          "y": 0.3384615384615385,
                           "uniqueID": "a37e8e1c-245a-4ad3-a61b-005cca3ba921",
                           "name": "distX",
                           "type": "number"
@@ -7861,7 +7863,7 @@
                         {
                           "atomType": "Input",
                           "x": 0.025384615384615384,
-                          "y": 0.38461538461538464,
+                          "y": 0.4307692307692308,
                           "uniqueID": "5b8bae39-58e6-4a34-9462-f6f069ddc327",
                           "name": "distY",
                           "type": "number"
@@ -7869,7 +7871,7 @@
                         {
                           "atomType": "Input",
                           "x": 0.025384615384615384,
-                          "y": 0.46153846153846156,
+                          "y": 0.5230769230769231,
                           "uniqueID": "e3928591-a111-4ecf-9f62-deea58f2ca24",
                           "name": "distZ",
                           "type": "number"
@@ -8057,7 +8059,8 @@
                           "ioValues": [
                             {
                               "name": "Item Name",
-                              "ioValue": "3657.6 inch Shiplap Cedar 1x6"
+                              "ioValue": "3657.6 inch Shiplap Cedar 1x6",
+                              "currentEquation": "New Item"
                             },
                             {
                               "name": "Number Needed",
@@ -8073,10 +8076,10 @@
                             }
                           ],
                           "BOMitem": {
-                            "BOMitemName": "name",
+                            "BOMitemName": "3657.6 inch Shiplap Cedar 1x6",
                             "numberNeeded": 1,
-                            "costUSD": 0,
-                            "source": "Cost is Estimated"
+                            "costUSD": 548.64,
+                            "source": ""
                           }
                         },
                         {
@@ -8309,7 +8312,8 @@
                               "ioValues": [
                                 {
                                   "name": "Item Name",
-                                  "ioValue": "New Item"
+                                  "ioValue": "New Item",
+                                  "currentEquation": "New Item"
                                 },
                                 {
                                   "name": "Number Needed",
@@ -8325,10 +8329,10 @@
                                 }
                               ],
                               "BOMitem": {
-                                "BOMitemName": "Cedar Shiplap",
+                                "BOMitemName": "New Item",
                                 "numberNeeded": 1,
                                 "costUSD": 0,
-                                "source": "https://www.lowes.com/pd/RELIABILT-5-375-in-x-12-ft-Unfinished-Cedar-Tongue-and-Groove-Wall-Plank-1-Pack-Covers-5-38-sq-ft/1000456695?user=shopping&feed=yes&gad_source=1&gad_campaignid=21218170251&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJdk_r7n3FB7d_4rSmPHAxLzIKqJX_qTlfnD14cEg7dvBOpAPxnaE2hoCqocQAvD_BwE"
+                                "source": ""
                               }
                             },
                             {
