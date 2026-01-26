@@ -6,7 +6,19 @@
 
 
 
- This is 150 mm thinner than the outside one
+ ### Sauna
+
+### Envlope
+
+### Outline
+
+### Inside
+
+This is 150 mm thinner than the outside one
+
+### Outline No Front
+
+### Inside
 
 This is 150 mm thinner than the outside one
 
