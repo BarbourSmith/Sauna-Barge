@@ -16,11 +16,15 @@
 
 This is 150 mm thinner than the outside one
 
+**Value:** __GEOMETRY_INPUT__
+
 ### Outline No Front
 
 ### Inside
 
 This is 150 mm thinner than the outside one
+
+**Value:** __GEOMETRY_INPUT__
 
 
 

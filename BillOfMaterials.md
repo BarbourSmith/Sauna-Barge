@@ -2,6 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|New Item|103|$0.00||
+|New Item|115|$0.00||
 |3657.6 inch Shiplap Cedar 1x6|67|$36758.88||
-|Total: |170|$36758.88| |
+|Total: |182|$36758.88| |
