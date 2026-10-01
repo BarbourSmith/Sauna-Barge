@@ -2,7 +2,7 @@
 
 # Sauna-Barge
 
-![](/project.svg)
+![](/project.png)
 
 
 
@@ -16,7 +16,7 @@
 
 This is 150 mm thinner than the outside one
 
-**Value:** __GEOMETRY_INPUT__
+__GEOMETRY_INPUT__
 
 ### Outline No Front
 
@@ -24,7 +24,7 @@ This is 150 mm thinner than the outside one
 
 This is 150 mm thinner than the outside one
 
-**Value:** __GEOMETRY_INPUT__
+__GEOMETRY_INPUT__
 
 
 
